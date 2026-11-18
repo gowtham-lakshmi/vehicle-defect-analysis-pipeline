@@ -1,0 +1,40 @@
+version: 2
+models:
+  - name: dim_bike
+    columns:
+      - name: bike_id
+        data_tests: [unique, not_null]
+  - name: dim_release
+    columns:
+      - name: release_id
+        data_tests: [unique, not_null]
+      - name: bike_id
+        data_tests:
+          - relationships:
+              to: ref('dim_bike')
+              field: bike_id
+  - name: dim_test_case
+    columns:
+      - name: test_case_id
+        data_tests: [unique, not_null]
+  - name: fact_test_runs
+    columns:
+      - name: run_id
+        data_tests: [unique, not_null]
+      - name: release_id
+        data_tests:
+          - relationships:
+              to: ref('dim_release')
+              field: release_id
+      - name: result
+        data_tests:
+          - accepted_values:
+              values: ['Pass', 'Fail', 'Blocked']
+  - name: fact_bugs
+    columns:
+      - name: bug_id
+        data_tests: [unique, not_null]
+      - name: severity
+        data_tests:
+          - accepted_values:
+              values: ['Critical', 'Major', 'Minor']

@@ -1,0 +1,11 @@
+version: 2
+sources:
+  - name: raw
+    database: my_project_catalog
+    schema: default
+    tables:
+      - name: bikes_delta
+      - name: releases_delta
+      - name: test_cases_delta
+      - name: test_runs_delta
+      - name: bugs_delta
