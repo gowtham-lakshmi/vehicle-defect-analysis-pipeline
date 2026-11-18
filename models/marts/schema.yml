@@ -11,8 +11,9 @@ models:
       - name: bike_id
         data_tests:
           - relationships:
-              to: ref('dim_bike')
-              field: bike_id
+              arguments:
+                to: ref('dim_bike')
+                field: bike_id
   - name: dim_test_case
     columns:
       - name: test_case_id
@@ -24,12 +25,14 @@ models:
       - name: release_id
         data_tests:
           - relationships:
-              to: ref('dim_release')
-              field: release_id
+              arguments:
+                to: ref('dim_release')
+                field: release_id
       - name: result
         data_tests:
           - accepted_values:
-              values: ['Pass', 'Fail', 'Blocked']
+              arguments:
+                values: ['Pass', 'Fail', 'Blocked']
   - name: fact_bugs
     columns:
       - name: bug_id
@@ -37,4 +40,5 @@ models:
       - name: severity
         data_tests:
           - accepted_values:
-              values: ['Critical', 'Major', 'Minor']
+              arguments:
+                values: ['Critical', 'Major', 'Minor']
