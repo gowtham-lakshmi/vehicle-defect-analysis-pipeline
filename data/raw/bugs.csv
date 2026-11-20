@@ -1,0 +1,2149 @@
+bug_id,run_id,release_id,module,severity,status,opened_date,closed_date
+1,3,1,Display,Critical,Open,2025-02-25,
+2,8,1,Bluetooth,Minor,Closed,2025-03-03,2025-03-21
+3,12,1,Warning Lamps,Minor,Closed,2025-03-05,2025-03-06
+4,13,1,Trip Meter,Minor,Closed,2025-02-26,2025-03-12
+5,20,1,Bluetooth,Minor,Closed,2025-02-20,2025-02-28
+6,23,1,Tachometer,Minor,Closed,2025-03-05,2025-03-19
+7,24,1,CAN Communication,Minor,Closed,2025-02-22,2025-03-13
+8,25,1,Display,Critical,In Progress,2025-02-21,
+9,26,1,Trip Meter,Major,Closed,2025-02-26,2025-03-15
+10,27,1,Speedometer,Major,Closed,2025-03-01,2025-03-08
+11,34,1,Fuel Gauge,Major,In Progress,2025-03-01,
+12,40,1,Trip Meter,Minor,Open,2025-02-23,
+13,50,1,Bluetooth,Critical,Closed,2025-02-25,2025-03-02
+14,75,1,UDS Diagnostics,Minor,Closed,2025-03-03,2025-03-16
+15,79,1,Speedometer,Major,Closed,2025-02-22,2025-03-12
+16,80,1,CAN Communication,Minor,Closed,2025-02-20,2025-02-24
+17,83,1,CAN Communication,Major,In Progress,2025-02-23,
+18,107,1,Warning Lamps,Major,Closed,2025-03-03,2025-03-23
+19,116,1,Trip Meter,Major,In Progress,2025-02-20,
+20,117,1,UDS Diagnostics,Minor,Closed,2025-02-24,2025-02-26
+21,118,1,Trip Meter,Major,Closed,2025-02-21,2025-02-28
+22,128,1,Odometer,Minor,Open,2025-02-24,
+23,133,1,CAN Communication,Major,In Progress,2025-02-25,
+24,140,1,Tachometer,Minor,Closed,2025-02-26,2025-03-05
+25,147,1,UDS Diagnostics,Minor,Closed,2025-03-03,2025-03-07
+26,165,1,CAN Communication,Major,Closed,2025-03-02,2025-03-22
+27,174,1,Warning Lamps,Major,Closed,2025-02-21,2025-03-02
+28,190,1,Bluetooth,Critical,Closed,2025-02-20,2025-03-06
+29,191,1,Bluetooth,Minor,Closed,2025-02-20,2025-03-12
+30,198,1,Tachometer,Minor,In Progress,2025-03-03,
+31,203,1,Tachometer,Major,Closed,2025-02-22,2025-03-12
+32,213,1,Speedometer,Minor,Open,2025-03-03,
+33,218,1,Trip Meter,Minor,In Progress,2025-02-23,
+34,219,1,Tachometer,Minor,Closed,2025-03-01,2025-03-03
+35,225,1,UDS Diagnostics,Major,Open,2025-02-27,
+36,226,1,Odometer,Minor,Closed,2025-02-28,2025-03-05
+37,238,1,Display,Minor,Closed,2025-03-05,2025-03-20
+38,240,1,Odometer,Minor,In Progress,2025-03-03,
+39,245,1,UDS Diagnostics,Critical,In Progress,2025-03-01,
+40,251,1,Trip Meter,Major,Closed,2025-02-20,2025-03-01
+41,254,1,Fuel Gauge,Major,Open,2025-02-19,
+42,259,1,Trip Meter,Minor,Closed,2025-02-28,2025-03-16
+43,261,1,CAN Communication,Major,Closed,2025-02-28,2025-03-01
+44,264,1,Trip Meter,Minor,Closed,2025-02-22,2025-03-02
+45,279,1,CAN Communication,Critical,In Progress,2025-02-22,
+46,284,1,UDS Diagnostics,Minor,In Progress,2025-03-05,
+47,290,1,Bluetooth,Minor,Closed,2025-03-01,2025-03-11
+48,294,1,Odometer,Major,Closed,2025-02-24,2025-02-27
+49,296,1,UDS Diagnostics,Major,Closed,2025-02-22,2025-03-07
+50,298,1,Tachometer,Major,Closed,2025-02-21,2025-03-08
+51,300,1,Tachometer,Major,Closed,2025-02-24,2025-03-14
+52,301,1,Trip Meter,Major,Closed,2025-02-23,2025-02-27
+53,309,1,Speedometer,Minor,Open,2025-02-20,
+54,310,1,UDS Diagnostics,Major,Closed,2025-02-23,2025-02-24
+55,313,1,Speedometer,Major,Closed,2025-03-02,2025-03-19
+56,320,1,Warning Lamps,Minor,In Progress,2025-03-02,
+57,334,1,Tachometer,Minor,Closed,2025-03-02,2025-03-11
+58,335,1,UDS Diagnostics,Minor,Closed,2025-02-27,2025-03-09
+59,341,1,Tachometer,Critical,Closed,2025-02-27,2025-03-02
+60,345,1,UDS Diagnostics,Major,Closed,2025-02-22,2025-02-27
+61,351,1,Odometer,Minor,Closed,2025-03-05,2025-03-18
+62,355,1,Warning Lamps,Major,Closed,2025-03-04,2025-03-17
+63,358,1,Bluetooth,Major,Closed,2025-03-03,2025-03-07
+64,360,1,Warning Lamps,Minor,Closed,2025-03-03,2025-03-04
+65,362,1,UDS Diagnostics,Minor,Closed,2025-02-21,2025-03-10
+66,364,1,Bluetooth,Minor,Closed,2025-03-03,2025-03-11
+67,371,1,Trip Meter,Major,Closed,2025-02-24,2025-03-09
+68,378,1,Trip Meter,Major,Open,2025-03-02,
+69,390,1,Trip Meter,Major,Open,2025-03-01,
+70,396,1,Bluetooth,Major,Closed,2025-02-24,2025-02-28
+71,412,1,Fuel Gauge,Minor,In Progress,2025-02-27,
+72,414,1,Warning Lamps,Minor,Closed,2025-03-05,2025-03-18
+73,424,1,Tachometer,Major,Closed,2025-02-27,2025-03-14
+74,427,1,Warning Lamps,Minor,Closed,2025-03-01,2025-03-07
+75,434,1,Speedometer,Major,Closed,2025-02-24,2025-02-26
+76,441,1,Warning Lamps,Minor,In Progress,2025-03-03,
+77,443,1,Fuel Gauge,Major,In Progress,2025-03-03,
+78,452,1,UDS Diagnostics,Minor,Open,2025-03-04,
+79,453,1,Warning Lamps,Minor,Closed,2025-03-03,2025-03-13
+80,456,1,Display,Critical,In Progress,2025-02-28,
+81,457,1,Trip Meter,Minor,Closed,2025-02-20,2025-03-05
+82,462,1,UDS Diagnostics,Major,In Progress,2025-02-20,
+83,465,1,CAN Communication,Major,Closed,2025-02-28,2025-03-16
+84,466,1,Warning Lamps,Critical,In Progress,2025-02-21,
+85,467,1,CAN Communication,Major,Open,2025-03-02,
+86,480,1,Odometer,Minor,Closed,2025-03-04,2025-03-06
+87,489,1,Warning Lamps,Major,Open,2025-02-28,
+88,491,1,Odometer,Minor,In Progress,2025-03-01,
+89,500,1,Tachometer,Critical,Open,2025-02-24,
+90,501,1,Tachometer,Minor,Closed,2025-02-22,2025-02-24
+91,502,1,UDS Diagnostics,Minor,Closed,2025-02-22,2025-02-23
+92,503,1,Display,Minor,Closed,2025-02-25,2025-02-28
+93,508,1,Speedometer,Critical,Closed,2025-02-25,2025-03-07
+94,510,1,Odometer,Critical,Closed,2025-02-23,2025-03-06
+95,517,1,Display,Major,Closed,2025-02-20,2025-02-22
+96,521,1,Trip Meter,Major,Closed,2025-02-24,2025-03-06
+97,532,1,Warning Lamps,Minor,Closed,2025-03-01,2025-03-16
+98,534,1,UDS Diagnostics,Major,Open,2025-02-24,
+99,550,1,UDS Diagnostics,Minor,Open,2025-02-27,
+100,551,1,UDS Diagnostics,Minor,In Progress,2025-02-28,
+101,552,1,Fuel Gauge,Major,Closed,2025-03-01,2025-03-04
+102,555,1,Warning Lamps,Major,In Progress,2025-02-27,
+103,577,2,Fuel Gauge,Major,Closed,2025-03-23,2025-03-25
+104,590,2,Display,Major,Closed,2025-03-30,2025-04-11
+105,597,2,Warning Lamps,Major,Closed,2025-03-28,2025-04-14
+106,601,2,Odometer,Minor,Closed,2025-04-01,2025-04-20
+107,620,2,UDS Diagnostics,Minor,Closed,2025-03-27,2025-04-10
+108,642,2,Tachometer,Major,Closed,2025-04-04,2025-04-20
+109,643,2,Tachometer,Major,Closed,2025-03-30,2025-04-03
+110,689,2,Display,Major,Closed,2025-03-26,2025-04-08
+111,699,2,Odometer,Critical,In Progress,2025-03-28,
+112,703,2,CAN Communication,Critical,Closed,2025-03-22,2025-04-07
+113,711,2,UDS Diagnostics,Major,Closed,2025-03-31,2025-04-13
+114,716,2,Fuel Gauge,Minor,Closed,2025-03-26,2025-04-09
+115,718,2,Odometer,Minor,Closed,2025-03-31,2025-04-15
+116,726,2,Tachometer,Minor,In Progress,2025-03-26,
+117,736,2,Odometer,Minor,Closed,2025-03-27,2025-04-15
+118,796,2,Odometer,Minor,Closed,2025-04-01,2025-04-08
+119,797,2,Tachometer,Critical,Open,2025-04-04,
+120,800,2,Trip Meter,Critical,Closed,2025-03-27,2025-04-16
+121,804,2,CAN Communication,Major,Closed,2025-03-29,2025-04-03
+122,806,2,Display,Major,In Progress,2025-04-02,
+123,812,2,Warning Lamps,Minor,In Progress,2025-03-31,
+124,826,2,Trip Meter,Minor,In Progress,2025-04-04,
+125,840,2,Trip Meter,Critical,Closed,2025-04-02,2025-04-22
+126,856,2,UDS Diagnostics,Major,Closed,2025-04-01,2025-04-09
+127,858,2,Fuel Gauge,Minor,Closed,2025-03-29,2025-04-11
+128,870,2,Fuel Gauge,Major,Closed,2025-04-05,2025-04-12
+129,890,2,Warning Lamps,Minor,Closed,2025-03-22,2025-04-02
+130,895,2,UDS Diagnostics,Major,Closed,2025-03-29,2025-04-06
+131,909,2,UDS Diagnostics,Minor,Closed,2025-04-03,2025-04-15
+132,921,2,Trip Meter,Major,Closed,2025-03-31,2025-04-09
+133,925,2,Bluetooth,Minor,Closed,2025-03-31,2025-04-06
+134,929,2,Trip Meter,Major,Closed,2025-03-24,2025-04-13
+135,946,2,CAN Communication,Minor,Closed,2025-03-29,2025-03-30
+136,948,2,Tachometer,Critical,Closed,2025-03-26,2025-04-14
+137,957,2,Tachometer,Minor,In Progress,2025-03-31,
+138,959,2,Display,Minor,Closed,2025-04-04,2025-04-22
+139,967,2,Tachometer,Major,Closed,2025-04-03,2025-04-05
+140,968,2,UDS Diagnostics,Minor,Closed,2025-03-27,2025-04-02
+141,970,2,Warning Lamps,Critical,Closed,2025-03-28,2025-04-12
+142,974,2,Odometer,Major,In Progress,2025-04-03,
+143,976,2,Warning Lamps,Critical,Open,2025-03-28,
+144,987,2,Odometer,Major,Closed,2025-03-26,2025-03-27
+145,989,2,UDS Diagnostics,Minor,Closed,2025-04-05,2025-04-20
+146,1002,2,Tachometer,Major,Open,2025-03-22,
+147,1018,2,Fuel Gauge,Minor,Closed,2025-04-01,2025-04-15
+148,1049,2,Speedometer,Major,Closed,2025-03-25,2025-03-28
+149,1053,2,Fuel Gauge,Minor,Closed,2025-03-28,2025-04-11
+150,1061,2,UDS Diagnostics,Critical,Closed,2025-04-02,2025-04-14
+151,1084,2,Warning Lamps,Major,Closed,2025-03-24,2025-03-30
+152,1090,2,Display,Minor,Open,2025-04-02,
+153,1091,2,Warning Lamps,Minor,Closed,2025-04-05,2025-04-22
+154,1097,2,Tachometer,Minor,Closed,2025-04-04,2025-04-17
+155,1104,2,CAN Communication,Major,In Progress,2025-04-05,
+156,1112,2,Tachometer,Critical,Closed,2025-03-28,2025-04-15
+157,1118,2,Display,Major,Open,2025-04-03,
+158,1119,2,Display,Minor,Closed,2025-03-27,2025-03-29
+159,1123,2,Speedometer,Major,In Progress,2025-03-31,
+160,1126,3,UDS Diagnostics,Major,Closed,2025-05-12,2025-05-21
+161,1128,3,Trip Meter,Minor,In Progress,2025-05-13,
+162,1150,3,Warning Lamps,Major,Closed,2025-05-19,2025-06-05
+163,1164,3,Fuel Gauge,Minor,Closed,2025-05-13,2025-05-26
+164,1168,3,Tachometer,Critical,Closed,2025-05-17,2025-05-24
+165,1175,3,Odometer,Major,Closed,2025-05-11,2025-05-30
+166,1184,3,Fuel Gauge,Major,Closed,2025-05-07,2025-05-24
+167,1188,3,Speedometer,Major,In Progress,2025-05-17,
+168,1213,3,Warning Lamps,Major,Closed,2025-05-15,2025-05-26
+169,1217,3,UDS Diagnostics,Minor,Closed,2025-05-09,2025-05-13
+170,1230,3,Speedometer,Critical,Closed,2025-05-14,2025-05-22
+171,1255,3,UDS Diagnostics,Major,In Progress,2025-05-14,
+172,1265,3,Display,Major,Closed,2025-05-14,2025-05-15
+173,1269,3,Tachometer,Minor,Closed,2025-05-16,2025-06-04
+174,1288,3,Display,Minor,In Progress,2025-05-14,
+175,1292,3,Warning Lamps,Minor,In Progress,2025-05-10,
+176,1293,3,Display,Minor,Closed,2025-05-06,2025-05-17
+177,1319,3,Tachometer,Major,In Progress,2025-05-20,
+178,1347,3,Bluetooth,Minor,Closed,2025-05-20,2025-06-01
+179,1354,3,Speedometer,Minor,Closed,2025-05-07,2025-05-27
+180,1369,3,UDS Diagnostics,Minor,Closed,2025-05-20,2025-06-06
+181,1370,3,UDS Diagnostics,Major,Closed,2025-05-18,2025-06-02
+182,1395,3,Fuel Gauge,Major,In Progress,2025-05-07,
+183,1404,3,Warning Lamps,Minor,Closed,2025-05-18,2025-05-19
+184,1422,3,CAN Communication,Minor,Open,2025-05-16,
+185,1439,3,Warning Lamps,Minor,Open,2025-05-14,
+186,1440,3,Bluetooth,Major,Closed,2025-05-08,2025-05-15
+187,1442,3,UDS Diagnostics,Critical,Open,2025-05-16,
+188,1444,3,UDS Diagnostics,Minor,Closed,2025-05-09,2025-05-26
+189,1445,3,CAN Communication,Minor,Closed,2025-05-20,2025-05-22
+190,1451,3,UDS Diagnostics,Minor,In Progress,2025-05-09,
+191,1452,3,UDS Diagnostics,Minor,Closed,2025-05-09,2025-05-21
+192,1465,3,Fuel Gauge,Major,Closed,2025-05-06,2025-05-22
+193,1468,3,Fuel Gauge,Minor,Open,2025-05-19,
+194,1470,3,Display,Minor,Closed,2025-05-13,2025-05-25
+195,1471,3,CAN Communication,Major,Closed,2025-05-11,2025-05-23
+196,1499,3,Odometer,Critical,Closed,2025-05-06,2025-05-22
+197,1507,3,CAN Communication,Major,Closed,2025-05-08,2025-05-23
+198,1509,3,Trip Meter,Minor,Closed,2025-05-16,2025-06-04
+199,1514,3,Speedometer,Minor,Closed,2025-05-09,2025-05-12
+200,1523,3,Display,Minor,Closed,2025-05-12,2025-05-15
+201,1542,3,Bluetooth,Minor,Closed,2025-05-09,2025-05-18
+202,1558,3,Odometer,Minor,Closed,2025-05-14,2025-05-26
+203,1560,3,Warning Lamps,Minor,Closed,2025-05-12,2025-05-13
+204,1561,3,CAN Communication,Major,Closed,2025-05-13,2025-05-18
+205,1574,3,Trip Meter,Minor,Closed,2025-05-13,2025-05-31
+206,1589,3,Trip Meter,Minor,Closed,2025-05-17,2025-05-31
+207,1598,3,Trip Meter,Minor,Closed,2025-05-16,2025-05-18
+208,1601,3,Warning Lamps,Major,Closed,2025-05-09,2025-05-28
+209,1636,3,Tachometer,Major,Closed,2025-05-14,2025-05-28
+210,1640,3,Odometer,Major,In Progress,2025-05-06,
+211,1641,3,UDS Diagnostics,Major,Closed,2025-05-06,2025-05-17
+212,1646,3,Tachometer,Minor,Closed,2025-05-18,2025-05-21
+213,1647,3,CAN Communication,Critical,Open,2025-05-10,
+214,1663,3,Warning Lamps,Minor,Closed,2025-05-15,2025-05-23
+215,1682,3,CAN Communication,Minor,Closed,2025-05-14,2025-05-26
+216,1709,3,Fuel Gauge,Major,In Progress,2025-05-18,
+217,1710,3,Bluetooth,Minor,Closed,2025-05-10,2025-05-14
+218,1711,3,Display,Critical,In Progress,2025-05-07,
+219,1726,3,Odometer,Minor,Closed,2025-05-14,2025-05-20
+220,1733,3,Odometer,Minor,Closed,2025-05-07,2025-05-16
+221,1738,3,Trip Meter,Critical,Closed,2025-05-15,2025-05-19
+222,1758,3,Display,Critical,Closed,2025-05-14,2025-05-17
+223,1766,3,Warning Lamps,Minor,Closed,2025-05-15,2025-05-24
+224,1782,3,Bluetooth,Major,Closed,2025-05-19,2025-06-08
+225,1789,3,Bluetooth,Major,Closed,2025-05-08,2025-05-18
+226,1796,3,CAN Communication,Minor,Closed,2025-05-14,2025-05-27
+227,1823,4,Display,Minor,Closed,2025-06-19,2025-06-25
+228,1887,4,Trip Meter,Major,Closed,2025-06-22,2025-07-07
+229,1890,4,Speedometer,Minor,Open,2025-06-21,
+230,1911,4,UDS Diagnostics,Critical,Open,2025-06-25,
+231,1926,4,Odometer,Minor,Closed,2025-06-21,2025-07-09
+232,1977,4,UDS Diagnostics,Major,In Progress,2025-06-24,
+233,1987,4,Display,Minor,Closed,2025-06-15,2025-06-25
+234,2057,4,CAN Communication,Minor,In Progress,2025-06-19,
+235,2076,4,Speedometer,Critical,In Progress,2025-06-13,
+236,2228,4,UDS Diagnostics,Major,Closed,2025-06-25,2025-07-01
+237,2258,4,Fuel Gauge,Minor,Closed,2025-06-21,2025-07-08
+238,2290,4,Trip Meter,Major,In Progress,2025-06-23,
+239,2318,4,CAN Communication,Major,Closed,2025-06-24,2025-07-06
+240,2324,4,Trip Meter,Major,Closed,2025-06-26,2025-07-05
+241,2333,4,CAN Communication,Minor,Closed,2025-06-19,2025-06-30
+242,2343,4,Odometer,Minor,In Progress,2025-06-19,
+243,2443,4,UDS Diagnostics,Major,Closed,2025-06-16,2025-06-25
+244,2463,5,Bluetooth,Minor,Open,2025-02-26,
+245,2469,5,Speedometer,Major,Closed,2025-02-16,2025-02-21
+246,2489,5,Warning Lamps,Minor,In Progress,2025-02-27,
+247,2491,5,Speedometer,Minor,Closed,2025-02-18,2025-02-22
+248,2498,5,Display,Minor,Closed,2025-02-27,2025-03-07
+249,2501,5,UDS Diagnostics,Critical,Closed,2025-02-14,2025-03-05
+250,2509,5,Trip Meter,Minor,Closed,2025-02-19,2025-03-07
+251,2510,5,Warning Lamps,Minor,Closed,2025-02-18,2025-02-22
+252,2512,5,Display,Minor,Closed,2025-02-24,2025-03-08
+253,2520,5,Speedometer,Minor,Closed,2025-02-23,2025-03-09
+254,2524,5,Display,Minor,Closed,2025-02-14,2025-02-20
+255,2528,5,Speedometer,Minor,Closed,2025-02-25,2025-03-11
+256,2530,5,Speedometer,Minor,Open,2025-02-20,
+257,2532,5,CAN Communication,Major,Open,2025-02-19,
+258,2534,5,Odometer,Major,In Progress,2025-02-24,
+259,2552,5,UDS Diagnostics,Minor,Closed,2025-02-22,2025-02-23
+260,2553,5,Warning Lamps,Minor,Closed,2025-02-25,2025-03-13
+261,2559,5,UDS Diagnostics,Major,Closed,2025-02-22,2025-02-27
+262,2564,5,Odometer,Minor,Open,2025-02-18,
+263,2567,5,UDS Diagnostics,Minor,Closed,2025-02-24,2025-03-12
+264,2568,5,UDS Diagnostics,Major,Closed,2025-02-27,2025-03-12
+265,2571,5,Fuel Gauge,Major,Open,2025-02-18,
+266,2573,5,Warning Lamps,Major,In Progress,2025-02-25,
+267,2593,5,Bluetooth,Major,Closed,2025-02-20,2025-03-08
+268,2596,5,Bluetooth,Major,In Progress,2025-02-16,
+269,2599,5,Speedometer,Major,Closed,2025-02-17,2025-03-07
+270,2617,5,Fuel Gauge,Major,Closed,2025-02-23,2025-03-01
+271,2619,5,Odometer,Minor,Closed,2025-02-26,2025-03-03
+272,2622,5,Odometer,Critical,Closed,2025-02-24,2025-03-10
+273,2633,5,Speedometer,Minor,Closed,2025-02-24,2025-03-11
+274,2638,5,CAN Communication,Minor,Closed,2025-02-13,2025-03-02
+275,2646,5,Warning Lamps,Minor,Closed,2025-02-14,2025-03-06
+276,2648,5,Bluetooth,Minor,In Progress,2025-02-22,
+277,2652,5,Display,Major,Closed,2025-02-27,2025-03-02
+278,2655,5,Warning Lamps,Minor,Closed,2025-02-26,2025-03-13
+279,2658,5,Speedometer,Major,Open,2025-02-22,
+280,2659,5,Bluetooth,Minor,Closed,2025-02-20,2025-02-27
+281,2660,5,Fuel Gauge,Minor,In Progress,2025-02-22,
+282,2661,5,UDS Diagnostics,Minor,Closed,2025-02-17,2025-03-02
+283,2670,5,Speedometer,Minor,Closed,2025-02-18,2025-03-07
+284,2672,5,UDS Diagnostics,Minor,Open,2025-02-19,
+285,2680,5,Warning Lamps,Minor,Closed,2025-02-14,2025-02-17
+286,2687,5,Bluetooth,Major,Closed,2025-02-18,2025-03-04
+287,2717,5,Tachometer,Minor,Closed,2025-02-23,2025-03-10
+288,2724,5,CAN Communication,Major,Closed,2025-02-21,2025-03-06
+289,2726,5,Odometer,Critical,Closed,2025-02-23,2025-03-04
+290,2730,5,CAN Communication,Minor,Closed,2025-02-18,2025-03-02
+291,2731,5,Warning Lamps,Minor,Closed,2025-02-27,2025-03-05
+292,2735,5,UDS Diagnostics,Critical,Closed,2025-02-20,2025-02-25
+293,2739,5,Tachometer,Minor,Open,2025-02-14,
+294,2750,5,Display,Major,Closed,2025-02-15,2025-02-20
+295,2751,5,Bluetooth,Minor,Closed,2025-02-16,2025-02-23
+296,2754,5,Bluetooth,Major,Closed,2025-02-19,2025-02-28
+297,2756,5,Display,Minor,Closed,2025-02-18,2025-02-21
+298,2758,5,Display,Major,Closed,2025-02-13,2025-02-24
+299,2759,5,Tachometer,Major,In Progress,2025-02-20,
+300,2765,5,Speedometer,Minor,Closed,2025-02-19,2025-03-04
+301,2766,5,Warning Lamps,Major,Closed,2025-02-24,2025-02-25
+302,2767,5,UDS Diagnostics,Major,Closed,2025-02-27,2025-03-16
+303,2768,5,Fuel Gauge,Major,Open,2025-02-20,
+304,2776,5,Odometer,Minor,In Progress,2025-02-17,
+305,2782,5,UDS Diagnostics,Minor,In Progress,2025-02-22,
+306,2791,5,Warning Lamps,Minor,Open,2025-02-18,
+307,2796,5,Odometer,Major,Closed,2025-02-13,2025-03-02
+308,2800,5,Display,Major,Closed,2025-02-22,2025-03-13
+309,2804,5,Display,Minor,Closed,2025-02-20,2025-03-06
+310,2807,5,Speedometer,Critical,Closed,2025-02-14,2025-02-17
+311,2813,5,Warning Lamps,Minor,In Progress,2025-02-23,
+312,2816,5,UDS Diagnostics,Major,Closed,2025-02-20,2025-02-25
+313,2818,5,Fuel Gauge,Major,Closed,2025-02-13,2025-02-25
+314,2820,5,Bluetooth,Minor,Closed,2025-02-17,2025-02-24
+315,2824,5,Speedometer,Major,Closed,2025-02-27,2025-03-14
+316,2833,5,Odometer,Major,Open,2025-02-20,
+317,2845,5,Tachometer,Major,Closed,2025-02-24,2025-03-11
+318,2848,5,UDS Diagnostics,Minor,Closed,2025-02-26,2025-03-03
+319,2852,5,Trip Meter,Minor,Closed,2025-02-26,2025-03-18
+320,2857,5,Display,Critical,Closed,2025-02-15,2025-03-02
+321,2867,5,Warning Lamps,Major,Open,2025-02-14,
+322,2870,5,UDS Diagnostics,Minor,Closed,2025-02-24,2025-03-06
+323,2873,5,Display,Minor,Closed,2025-02-18,2025-02-27
+324,2874,5,Bluetooth,Major,Closed,2025-02-14,2025-02-15
+325,2876,5,Trip Meter,Minor,Open,2025-02-15,
+326,2877,5,Trip Meter,Major,In Progress,2025-02-22,
+327,2878,5,Odometer,Minor,Closed,2025-02-16,2025-02-28
+328,2879,5,Trip Meter,Minor,Closed,2025-02-14,2025-02-17
+329,2881,5,Tachometer,Minor,Closed,2025-02-14,2025-02-16
+330,2886,5,Warning Lamps,Minor,In Progress,2025-02-25,
+331,2889,5,Trip Meter,Minor,Closed,2025-02-23,2025-03-02
+332,2896,5,Warning Lamps,Minor,Closed,2025-02-22,2025-02-28
+333,2898,5,CAN Communication,Major,Closed,2025-02-13,2025-02-23
+334,2903,5,Fuel Gauge,Major,Closed,2025-02-20,2025-03-10
+335,2905,5,Warning Lamps,Major,Open,2025-02-26,
+336,2918,5,Warning Lamps,Minor,Closed,2025-02-18,2025-02-25
+337,2925,5,CAN Communication,Minor,In Progress,2025-02-16,
+338,2926,5,Warning Lamps,Critical,Open,2025-02-23,
+339,2927,5,Trip Meter,Major,Open,2025-02-17,
+340,2938,5,UDS Diagnostics,Critical,Closed,2025-02-27,2025-03-09
+341,2940,5,Speedometer,Major,Closed,2025-02-24,2025-03-06
+342,2943,5,CAN Communication,Minor,Closed,2025-02-16,2025-02-27
+343,2952,5,Tachometer,Major,Closed,2025-02-22,2025-03-12
+344,2958,5,Odometer,Minor,Closed,2025-02-20,2025-03-04
+345,2960,5,Fuel Gauge,Major,Closed,2025-02-20,2025-03-06
+346,2961,5,Fuel Gauge,Major,Closed,2025-02-26,2025-03-17
+347,2964,5,Trip Meter,Minor,Open,2025-02-18,
+348,2967,5,Speedometer,Minor,Open,2025-02-27,
+349,2968,5,Speedometer,Major,Closed,2025-02-15,2025-02-22
+350,2970,5,Bluetooth,Minor,Closed,2025-02-22,2025-03-13
+351,2979,5,CAN Communication,Major,Closed,2025-02-19,2025-02-24
+352,2980,5,Fuel Gauge,Minor,In Progress,2025-02-24,
+353,2983,5,Fuel Gauge,Minor,In Progress,2025-02-23,
+354,2984,5,UDS Diagnostics,Minor,Closed,2025-02-26,2025-03-06
+355,2990,5,Trip Meter,Minor,Closed,2025-02-26,2025-03-16
+356,2992,5,Trip Meter,Minor,Closed,2025-02-23,2025-02-25
+357,2998,5,UDS Diagnostics,Minor,In Progress,2025-02-24,
+358,2999,5,Speedometer,Minor,Closed,2025-02-13,2025-02-27
+359,3003,5,Bluetooth,Minor,In Progress,2025-02-20,
+360,3007,5,Bluetooth,Major,Open,2025-02-23,
+361,3009,5,Display,Major,Closed,2025-02-16,2025-02-28
+362,3018,5,Fuel Gauge,Major,Closed,2025-02-16,2025-03-05
+363,3020,5,CAN Communication,Major,Closed,2025-02-24,2025-03-05
+364,3021,5,UDS Diagnostics,Minor,Closed,2025-02-22,2025-03-07
+365,3027,5,Speedometer,Critical,Closed,2025-02-20,2025-03-12
+366,3030,5,CAN Communication,Major,Closed,2025-02-13,2025-02-27
+367,3037,5,Odometer,Minor,Open,2025-02-25,
+368,3041,5,UDS Diagnostics,Minor,Closed,2025-02-13,2025-02-15
+369,3045,5,Bluetooth,Minor,Open,2025-02-25,
+370,3046,5,Warning Lamps,Minor,Closed,2025-02-17,2025-03-08
+371,3049,5,CAN Communication,Minor,Closed,2025-02-18,2025-02-23
+372,3053,5,Trip Meter,Major,Closed,2025-02-17,2025-03-03
+373,3056,5,Warning Lamps,Critical,In Progress,2025-02-23,
+374,3063,5,Warning Lamps,Minor,Closed,2025-02-19,2025-03-05
+375,3066,5,UDS Diagnostics,Minor,In Progress,2025-02-27,
+376,3068,5,Display,Critical,Closed,2025-02-20,2025-03-02
+377,3073,5,Odometer,Critical,Closed,2025-02-19,2025-03-03
+378,3080,5,Tachometer,Major,In Progress,2025-02-22,
+379,3090,5,Speedometer,Minor,In Progress,2025-02-17,
+380,3101,6,Tachometer,Critical,Closed,2025-05-01,2025-05-10
+381,3113,6,UDS Diagnostics,Major,In Progress,2025-04-21,
+382,3118,6,Bluetooth,Minor,Closed,2025-04-25,2025-05-05
+383,3131,6,CAN Communication,Critical,Closed,2025-04-30,2025-05-20
+384,3133,6,Tachometer,Minor,In Progress,2025-04-28,
+385,3137,6,Speedometer,Minor,Closed,2025-05-03,2025-05-07
+386,3168,6,Bluetooth,Minor,In Progress,2025-04-25,
+387,3169,6,Display,Minor,Open,2025-05-05,
+388,3171,6,Display,Major,Closed,2025-04-23,2025-04-26
+389,3174,6,Odometer,Major,Closed,2025-05-01,2025-05-09
+390,3178,6,CAN Communication,Major,Closed,2025-05-04,2025-05-15
+391,3187,6,Speedometer,Minor,In Progress,2025-05-05,
+392,3213,6,CAN Communication,Minor,Closed,2025-04-27,2025-05-08
+393,3246,6,Display,Major,Open,2025-05-02,
+394,3264,6,Odometer,Major,Closed,2025-04-24,2025-05-04
+395,3277,6,Display,Critical,Closed,2025-04-21,2025-05-09
+396,3283,6,CAN Communication,Minor,Closed,2025-04-22,2025-05-12
+397,3285,6,Display,Minor,Closed,2025-04-27,2025-05-16
+398,3315,6,Trip Meter,Critical,Closed,2025-04-23,2025-05-06
+399,3333,6,Display,Major,Open,2025-04-25,
+400,3337,6,Trip Meter,Minor,Closed,2025-04-29,2025-05-18
+401,3338,6,Speedometer,Minor,Closed,2025-05-05,2025-05-06
+402,3366,6,CAN Communication,Major,Closed,2025-05-05,2025-05-21
+403,3368,6,Display,Major,Closed,2025-04-28,2025-05-01
+404,3393,6,Warning Lamps,Minor,Closed,2025-05-02,2025-05-09
+405,3394,6,Bluetooth,Minor,Closed,2025-04-29,2025-05-13
+406,3396,6,Fuel Gauge,Major,Closed,2025-04-30,2025-05-11
+407,3412,6,Fuel Gauge,Minor,Closed,2025-04-28,2025-04-29
+408,3434,6,Bluetooth,Minor,Open,2025-04-21,
+409,3442,6,Fuel Gauge,Minor,Closed,2025-04-23,2025-05-13
+410,3444,6,UDS Diagnostics,Minor,Closed,2025-04-29,2025-05-06
+411,3448,6,Tachometer,Major,In Progress,2025-05-03,
+412,3469,6,Tachometer,Critical,Closed,2025-05-02,2025-05-10
+413,3496,6,Warning Lamps,Major,Closed,2025-05-02,2025-05-04
+414,3522,6,CAN Communication,Major,In Progress,2025-04-27,
+415,3537,6,Fuel Gauge,Minor,Closed,2025-05-03,2025-05-23
+416,3545,6,Tachometer,Minor,Closed,2025-04-25,2025-05-10
+417,3548,6,Trip Meter,Minor,Closed,2025-04-27,2025-04-29
+418,3563,6,Odometer,Critical,In Progress,2025-04-30,
+419,3570,6,Speedometer,Minor,In Progress,2025-04-22,
+420,3587,6,Odometer,Minor,Closed,2025-04-24,2025-05-04
+421,3601,6,Speedometer,Minor,Closed,2025-04-30,2025-05-11
+422,3605,6,Trip Meter,Major,In Progress,2025-04-30,
+423,3672,6,UDS Diagnostics,Critical,Open,2025-04-30,
+424,3675,6,Speedometer,Minor,Closed,2025-04-24,2025-05-05
+425,3679,6,Trip Meter,Major,In Progress,2025-04-30,
+426,3689,6,Fuel Gauge,Minor,In Progress,2025-05-05,
+427,3730,6,UDS Diagnostics,Major,Closed,2025-04-27,2025-05-13
+428,3732,6,CAN Communication,Minor,Closed,2025-04-29,2025-05-17
+429,3736,6,Bluetooth,Minor,Closed,2025-04-29,2025-05-05
+430,3744,6,UDS Diagnostics,Major,Closed,2025-04-26,2025-05-04
+431,3754,6,UDS Diagnostics,Minor,In Progress,2025-05-05,
+432,3759,6,Fuel Gauge,Minor,Closed,2025-04-23,2025-04-27
+433,3760,6,Bluetooth,Major,Closed,2025-05-03,2025-05-13
+434,3765,6,Bluetooth,Major,In Progress,2025-04-27,
+435,3771,6,Bluetooth,Minor,Open,2025-05-04,
+436,3779,6,Display,Major,Closed,2025-04-24,2025-04-29
+437,3783,7,Tachometer,Minor,Closed,2025-05-29,2025-06-12
+438,3792,7,Display,Critical,Closed,2025-05-31,2025-06-02
+439,3829,7,Bluetooth,Minor,Closed,2025-06-03,2025-06-12
+440,3831,7,Fuel Gauge,Major,Closed,2025-05-29,2025-06-02
+441,3842,7,Odometer,Minor,Closed,2025-06-04,2025-06-08
+442,3884,7,CAN Communication,Minor,Closed,2025-06-03,2025-06-22
+443,3887,7,UDS Diagnostics,Minor,Closed,2025-06-03,2025-06-23
+444,3890,7,Fuel Gauge,Critical,Closed,2025-05-26,2025-06-11
+445,3908,7,Display,Major,Closed,2025-05-30,2025-06-11
+446,3910,7,Display,Minor,Closed,2025-05-28,2025-06-05
+447,3921,7,Warning Lamps,Minor,Closed,2025-06-06,2025-06-24
+448,3930,7,UDS Diagnostics,Major,Closed,2025-06-01,2025-06-05
+449,3931,7,Display,Minor,Open,2025-05-28,
+450,3932,7,Warning Lamps,Major,Closed,2025-05-31,2025-06-11
+451,3966,7,Speedometer,Minor,Closed,2025-05-25,2025-06-03
+452,3967,7,Warning Lamps,Minor,Closed,2025-05-26,2025-06-12
+453,3979,7,Tachometer,Major,Closed,2025-06-04,2025-06-11
+454,3981,7,Trip Meter,Major,Closed,2025-06-06,2025-06-09
+455,3985,7,Tachometer,Major,Closed,2025-05-24,2025-05-27
+456,3988,7,Bluetooth,Major,Closed,2025-05-26,2025-06-04
+457,3997,7,Odometer,Major,Closed,2025-05-25,2025-05-30
+458,4005,7,Fuel Gauge,Major,In Progress,2025-05-23,
+459,4030,7,Speedometer,Major,Closed,2025-05-26,2025-06-11
+460,4047,7,Odometer,Major,Closed,2025-06-06,2025-06-23
+461,4051,7,Bluetooth,Minor,Closed,2025-05-23,2025-06-08
+462,4068,7,Display,Minor,Closed,2025-06-06,2025-06-23
+463,4071,7,Warning Lamps,Minor,Closed,2025-06-02,2025-06-08
+464,4101,7,Fuel Gauge,Minor,Open,2025-05-28,
+465,4104,7,Trip Meter,Minor,In Progress,2025-06-03,
+466,4125,7,CAN Communication,Minor,Closed,2025-05-28,2025-06-16
+467,4154,7,UDS Diagnostics,Major,Closed,2025-06-02,2025-06-05
+468,4155,7,Speedometer,Minor,Closed,2025-05-30,2025-06-02
+469,4169,7,Tachometer,Minor,Open,2025-05-28,
+470,4170,7,UDS Diagnostics,Major,Open,2025-05-28,
+471,4176,7,UDS Diagnostics,Minor,Closed,2025-06-02,2025-06-11
+472,4180,7,Speedometer,Major,Closed,2025-06-04,2025-06-10
+473,4190,7,Display,Major,Closed,2025-05-27,2025-06-02
+474,4193,7,Speedometer,Minor,Closed,2025-06-04,2025-06-14
+475,4215,7,Warning Lamps,Minor,Closed,2025-05-24,2025-05-26
+476,4220,7,CAN Communication,Major,Closed,2025-05-30,2025-06-06
+477,4246,7,Warning Lamps,Minor,Closed,2025-06-03,2025-06-23
+478,4255,7,Fuel Gauge,Major,In Progress,2025-05-27,
+479,4257,7,Speedometer,Major,Open,2025-05-30,
+480,4263,7,Speedometer,Minor,Closed,2025-06-03,2025-06-17
+481,4286,7,Fuel Gauge,Major,Closed,2025-05-25,2025-06-03
+482,4287,7,CAN Communication,Minor,Closed,2025-05-30,2025-06-09
+483,4288,7,Fuel Gauge,Major,Closed,2025-05-31,2025-06-11
+484,4290,7,Fuel Gauge,Major,Closed,2025-05-29,2025-06-10
+485,4291,7,Bluetooth,Minor,In Progress,2025-05-24,
+486,4299,7,CAN Communication,Critical,Open,2025-05-23,
+487,4301,7,Bluetooth,Major,Closed,2025-06-06,2025-06-15
+488,4311,7,CAN Communication,Major,Closed,2025-05-29,2025-06-16
+489,4353,7,Bluetooth,Minor,In Progress,2025-05-24,
+490,4361,7,CAN Communication,Minor,Closed,2025-05-26,2025-06-13
+491,4368,7,Warning Lamps,Critical,Open,2025-06-04,
+492,4386,7,Fuel Gauge,Minor,In Progress,2025-06-06,
+493,4388,7,UDS Diagnostics,Minor,In Progress,2025-06-06,
+494,4435,7,Warning Lamps,Minor,Closed,2025-05-31,2025-06-03
+495,4443,7,Warning Lamps,Minor,Closed,2025-05-27,2025-05-31
+496,4477,8,CAN Communication,Minor,Closed,2025-07-01,2025-07-21
+497,4507,8,Trip Meter,Major,Closed,2025-07-09,2025-07-23
+498,4553,8,Warning Lamps,Minor,Closed,2025-07-10,2025-07-12
+499,4561,8,Warning Lamps,Minor,In Progress,2025-07-07,
+500,4568,8,Trip Meter,Major,Closed,2025-06-28,2025-07-16
+501,4662,8,Warning Lamps,Major,Closed,2025-06-28,2025-06-30
+502,4699,8,Trip Meter,Minor,In Progress,2025-06-27,
+503,4713,8,UDS Diagnostics,Major,Closed,2025-07-06,2025-07-19
+504,4765,8,Bluetooth,Critical,In Progress,2025-07-03,
+505,4913,8,Speedometer,Major,In Progress,2025-07-02,
+506,4933,8,CAN Communication,Minor,In Progress,2025-07-06,
+507,5026,9,Speedometer,Minor,Open,2025-02-13,
+508,5039,9,Speedometer,Minor,Closed,2025-02-13,2025-02-27
+509,5044,9,CAN Communication,Minor,In Progress,2025-02-25,
+510,5046,9,Warning Lamps,Minor,Closed,2025-02-19,2025-03-08
+511,5049,9,Warning Lamps,Major,Closed,2025-02-17,2025-02-24
+512,5052,9,Warning Lamps,Minor,Closed,2025-02-18,2025-02-24
+513,5053,9,Display,Minor,Closed,2025-02-20,2025-03-08
+514,5054,9,Tachometer,Major,Closed,2025-02-11,2025-02-23
+515,5060,9,Bluetooth,Major,Closed,2025-02-16,2025-03-01
+516,5062,9,Odometer,Major,In Progress,2025-02-19,
+517,5069,9,Trip Meter,Critical,Closed,2025-02-12,2025-02-14
+518,5071,9,Tachometer,Minor,Closed,2025-02-13,2025-02-25
+519,5075,9,Tachometer,Major,Closed,2025-02-20,2025-02-25
+520,5078,9,Trip Meter,Minor,Closed,2025-02-11,2025-03-02
+521,5082,9,Fuel Gauge,Minor,In Progress,2025-02-20,
+522,5083,9,UDS Diagnostics,Major,Closed,2025-02-17,2025-03-05
+523,5084,9,Display,Major,Closed,2025-02-13,2025-03-03
+524,5089,9,Odometer,Major,Closed,2025-02-20,2025-03-07
+525,5093,9,Warning Lamps,Minor,Closed,2025-02-12,2025-02-28
+526,5101,9,CAN Communication,Minor,Open,2025-02-22,
+527,5107,9,UDS Diagnostics,Major,Closed,2025-02-12,2025-02-26
+528,5108,9,Bluetooth,Minor,In Progress,2025-02-18,
+529,5109,9,Display,Minor,Closed,2025-02-20,2025-03-04
+530,5110,9,Display,Major,Closed,2025-02-18,2025-03-01
+531,5111,9,Bluetooth,Major,Closed,2025-02-20,2025-03-12
+532,5126,9,Odometer,Major,Closed,2025-02-11,2025-02-16
+533,5128,9,Odometer,Major,Closed,2025-02-11,2025-02-24
+534,5130,9,Tachometer,Minor,Closed,2025-02-12,2025-02-28
+535,5140,9,Fuel Gauge,Minor,Closed,2025-02-17,2025-02-28
+536,5145,9,Display,Major,Closed,2025-02-11,2025-03-01
+537,5147,9,CAN Communication,Minor,Open,2025-02-23,
+538,5155,9,Display,Critical,Open,2025-02-15,
+539,5171,9,Speedometer,Major,Closed,2025-02-22,2025-03-07
+540,5180,9,Fuel Gauge,Minor,Open,2025-02-25,
+541,5181,9,CAN Communication,Minor,Closed,2025-02-21,2025-03-04
+542,5186,9,UDS Diagnostics,Minor,In Progress,2025-02-24,
+543,5204,9,Speedometer,Critical,In Progress,2025-02-17,
+544,5209,9,Warning Lamps,Critical,In Progress,2025-02-21,
+545,5215,9,Display,Minor,Open,2025-02-13,
+546,5220,9,CAN Communication,Major,Closed,2025-02-11,2025-02-17
+547,5225,9,Speedometer,Minor,Closed,2025-02-24,2025-03-03
+548,5228,9,Fuel Gauge,Major,In Progress,2025-02-14,
+549,5230,9,Warning Lamps,Minor,In Progress,2025-02-15,
+550,5242,9,Trip Meter,Major,Closed,2025-02-12,2025-02-14
+551,5252,9,Display,Minor,Open,2025-02-21,
+552,5257,9,Warning Lamps,Critical,Closed,2025-02-16,2025-03-01
+553,5261,9,Fuel Gauge,Major,Closed,2025-02-20,2025-03-09
+554,5263,9,Fuel Gauge,Minor,Open,2025-02-15,
+555,5266,9,Odometer,Minor,In Progress,2025-02-23,
+556,5267,9,UDS Diagnostics,Minor,Closed,2025-02-24,2025-02-26
+557,5271,9,Trip Meter,Minor,In Progress,2025-02-19,
+558,5277,9,Warning Lamps,Minor,Open,2025-02-11,
+559,5278,9,UDS Diagnostics,Minor,Closed,2025-02-13,2025-03-05
+560,5279,9,Fuel Gauge,Major,Open,2025-02-13,
+561,5287,9,Trip Meter,Major,In Progress,2025-02-20,
+562,5289,9,Tachometer,Minor,Closed,2025-02-12,2025-02-19
+563,5293,9,Speedometer,Minor,Closed,2025-02-12,2025-03-02
+564,5302,9,Odometer,Minor,Closed,2025-02-17,2025-03-02
+565,5305,9,Trip Meter,Major,In Progress,2025-02-14,
+566,5309,9,Fuel Gauge,Major,Closed,2025-02-15,2025-03-02
+567,5323,9,UDS Diagnostics,Major,Closed,2025-02-25,2025-03-13
+568,5325,9,Odometer,Minor,Closed,2025-02-19,2025-03-11
+569,5329,9,Bluetooth,Critical,In Progress,2025-02-20,
+570,5339,9,Bluetooth,Major,Closed,2025-02-13,2025-02-17
+571,5342,9,Fuel Gauge,Major,Closed,2025-02-12,2025-02-24
+572,5344,9,Display,Minor,Closed,2025-02-13,2025-02-20
+573,5348,9,Display,Minor,Closed,2025-02-25,2025-03-03
+574,5349,9,Speedometer,Minor,Closed,2025-02-19,2025-03-01
+575,5355,9,Odometer,Minor,Closed,2025-02-22,2025-03-14
+576,5362,9,Speedometer,Major,Closed,2025-02-22,2025-03-05
+577,5385,9,Bluetooth,Minor,Closed,2025-02-12,2025-02-24
+578,5397,9,Bluetooth,Minor,Closed,2025-02-12,2025-02-24
+579,5399,9,Speedometer,Minor,In Progress,2025-02-20,
+580,5402,9,Warning Lamps,Major,Closed,2025-02-13,2025-02-18
+581,5409,9,CAN Communication,Critical,In Progress,2025-02-22,
+582,5410,9,Odometer,Minor,Open,2025-02-11,
+583,5411,9,CAN Communication,Major,Closed,2025-02-13,2025-02-22
+584,5414,9,Speedometer,Major,Open,2025-02-12,
+585,5416,9,Fuel Gauge,Minor,In Progress,2025-02-15,
+586,5417,9,Speedometer,Minor,In Progress,2025-02-13,
+587,5419,9,Warning Lamps,Major,Closed,2025-02-12,2025-02-19
+588,5424,9,Trip Meter,Minor,In Progress,2025-02-12,
+589,5427,9,Fuel Gauge,Minor,Open,2025-02-12,
+590,5439,9,Bluetooth,Major,Closed,2025-02-16,2025-03-01
+591,5441,9,Speedometer,Major,In Progress,2025-02-13,
+592,5445,9,Speedometer,Major,Closed,2025-02-24,2025-02-28
+593,5465,9,Display,Critical,Closed,2025-02-11,2025-02-25
+594,5471,9,Tachometer,Minor,Closed,2025-02-12,2025-03-01
+595,5475,9,Odometer,Major,Closed,2025-02-15,2025-02-27
+596,5476,9,CAN Communication,Major,Open,2025-02-18,
+597,5478,9,CAN Communication,Minor,Open,2025-02-16,
+598,5480,9,Bluetooth,Major,In Progress,2025-02-17,
+599,5482,9,Display,Major,Closed,2025-02-25,2025-03-03
+600,5483,9,Fuel Gauge,Minor,Closed,2025-02-16,2025-03-03
+601,5486,9,UDS Diagnostics,Minor,Closed,2025-02-15,2025-02-24
+602,5490,9,Display,Critical,In Progress,2025-02-16,
+603,5491,9,Tachometer,Minor,Closed,2025-02-17,2025-02-20
+604,5494,9,Display,Minor,Closed,2025-02-17,2025-02-26
+605,5518,9,Bluetooth,Minor,Closed,2025-02-20,2025-03-03
+606,5523,9,Tachometer,Major,Closed,2025-02-18,2025-03-09
+607,5525,9,Warning Lamps,Major,Closed,2025-02-23,2025-03-04
+608,5526,9,CAN Communication,Major,Closed,2025-02-23,2025-03-15
+609,5527,9,Tachometer,Critical,Closed,2025-02-17,2025-03-04
+610,5528,9,UDS Diagnostics,Minor,Open,2025-02-23,
+611,5529,9,Trip Meter,Minor,Closed,2025-02-25,2025-03-05
+612,5532,9,UDS Diagnostics,Minor,Closed,2025-02-12,2025-02-20
+613,5536,9,UDS Diagnostics,Minor,Closed,2025-02-22,2025-03-12
+614,5540,9,UDS Diagnostics,Minor,In Progress,2025-02-17,
+615,5544,9,Fuel Gauge,Major,Open,2025-02-22,
+616,5545,9,Trip Meter,Major,Open,2025-02-13,
+617,5547,9,Display,Major,Closed,2025-02-13,2025-02-19
+618,5548,9,Trip Meter,Major,Open,2025-02-15,
+619,5553,9,Odometer,Major,Closed,2025-02-21,2025-03-13
+620,5554,9,Fuel Gauge,Major,Open,2025-02-22,
+621,5555,9,Odometer,Major,Open,2025-02-13,
+622,5559,9,Tachometer,Major,Closed,2025-02-16,2025-02-19
+623,5570,9,CAN Communication,Critical,Closed,2025-02-22,2025-02-26
+624,5571,9,Warning Lamps,Minor,Closed,2025-02-17,2025-03-03
+625,5572,9,UDS Diagnostics,Minor,Open,2025-02-12,
+626,5584,9,Display,Minor,Closed,2025-02-21,2025-03-07
+627,5585,9,CAN Communication,Major,Closed,2025-02-14,2025-02-15
+628,5590,9,CAN Communication,Minor,Closed,2025-02-13,2025-02-27
+629,5601,9,Speedometer,Major,Closed,2025-02-22,2025-03-02
+630,5612,9,Warning Lamps,Major,Closed,2025-02-15,2025-03-05
+631,5613,9,Tachometer,Critical,In Progress,2025-02-15,
+632,5620,9,CAN Communication,Major,Closed,2025-02-25,2025-03-11
+633,5623,9,Display,Major,Closed,2025-02-17,2025-02-25
+634,5629,9,Fuel Gauge,Minor,Closed,2025-02-25,2025-03-15
+635,5630,9,Tachometer,Minor,In Progress,2025-02-21,
+636,5632,9,Fuel Gauge,Minor,Closed,2025-02-12,2025-02-19
+637,5637,10,CAN Communication,Major,Closed,2025-04-24,2025-05-01
+638,5641,10,UDS Diagnostics,Critical,Closed,2025-04-23,2025-04-29
+639,5643,10,Warning Lamps,Major,Closed,2025-05-01,2025-05-02
+640,5648,10,Warning Lamps,Minor,Closed,2025-04-19,2025-04-26
+641,5655,10,Fuel Gauge,Minor,Closed,2025-04-23,2025-05-13
+642,5664,10,Warning Lamps,Major,Closed,2025-04-22,2025-04-28
+643,5672,10,CAN Communication,Major,Closed,2025-04-24,2025-04-30
+644,5711,10,Warning Lamps,Minor,In Progress,2025-04-30,
+645,5739,10,Tachometer,Minor,Closed,2025-04-23,2025-04-27
+646,5741,10,Warning Lamps,Minor,Open,2025-04-28,
+647,5760,10,Tachometer,Major,Closed,2025-04-29,2025-05-16
+648,5767,10,UDS Diagnostics,Major,Closed,2025-04-28,2025-05-08
+649,5773,10,Bluetooth,Minor,In Progress,2025-04-21,
+650,5776,10,CAN Communication,Major,Closed,2025-04-17,2025-04-24
+651,5777,10,Speedometer,Minor,In Progress,2025-04-29,
+652,5789,10,Warning Lamps,Minor,Open,2025-04-20,
+653,5807,10,UDS Diagnostics,Major,Closed,2025-04-17,2025-05-07
+654,5811,10,Trip Meter,Minor,Closed,2025-04-28,2025-05-08
+655,5820,10,Warning Lamps,Critical,Closed,2025-04-21,2025-05-07
+656,5839,10,Tachometer,Critical,Closed,2025-04-24,2025-04-30
+657,5851,10,Speedometer,Major,Closed,2025-04-30,2025-05-08
+658,5871,10,UDS Diagnostics,Critical,Closed,2025-04-18,2025-05-08
+659,5873,10,Tachometer,Minor,Closed,2025-04-22,2025-05-03
+660,5886,10,Speedometer,Major,Closed,2025-04-27,2025-04-29
+661,5893,10,Tachometer,Major,Closed,2025-04-21,2025-04-24
+662,5905,10,Trip Meter,Minor,Closed,2025-04-19,2025-04-28
+663,5912,10,Fuel Gauge,Major,Closed,2025-04-20,2025-05-10
+664,5942,10,Trip Meter,Critical,Closed,2025-04-27,2025-05-03
+665,5966,10,CAN Communication,Major,Open,2025-04-24,
+666,5976,10,Tachometer,Major,In Progress,2025-04-25,
+667,5988,10,Fuel Gauge,Major,Open,2025-05-01,
+668,5996,10,UDS Diagnostics,Major,Closed,2025-04-29,2025-05-02
+669,6017,10,Fuel Gauge,Major,Closed,2025-04-20,2025-05-02
+670,6027,10,Bluetooth,Major,Closed,2025-04-25,2025-05-07
+671,6029,10,Warning Lamps,Minor,In Progress,2025-05-01,
+672,6035,10,Bluetooth,Major,Closed,2025-04-29,2025-05-03
+673,6058,10,Bluetooth,Minor,Closed,2025-04-26,2025-05-07
+674,6072,10,Bluetooth,Critical,Closed,2025-04-25,2025-05-04
+675,6100,10,CAN Communication,Major,Closed,2025-04-28,2025-05-18
+676,6104,10,Warning Lamps,Major,In Progress,2025-04-19,
+677,6114,10,UDS Diagnostics,Minor,Closed,2025-04-22,2025-05-04
+678,6122,10,Tachometer,Major,Closed,2025-05-01,2025-05-07
+679,6125,10,Bluetooth,Minor,Closed,2025-05-01,2025-05-19
+680,6131,10,CAN Communication,Minor,Closed,2025-04-19,2025-05-07
+681,6141,10,Odometer,Major,Closed,2025-04-28,2025-04-30
+682,6153,10,Odometer,Minor,In Progress,2025-04-28,
+683,6162,10,Trip Meter,Minor,Closed,2025-04-28,2025-05-17
+684,6164,10,Display,Minor,Closed,2025-04-20,2025-05-01
+685,6169,10,Display,Minor,Closed,2025-04-28,2025-05-14
+686,6179,10,Speedometer,Major,Open,2025-04-25,
+687,6187,10,Bluetooth,Minor,Closed,2025-04-29,2025-05-11
+688,6188,10,UDS Diagnostics,Major,Open,2025-04-24,
+689,6189,10,Warning Lamps,Critical,In Progress,2025-04-29,
+690,6196,10,Trip Meter,Major,Closed,2025-04-19,2025-05-04
+691,6202,10,Bluetooth,Minor,Closed,2025-04-22,2025-04-26
+692,6209,10,Bluetooth,Major,Closed,2025-05-01,2025-05-06
+693,6214,10,Fuel Gauge,Minor,Closed,2025-04-18,2025-04-30
+694,6226,10,Warning Lamps,Minor,Open,2025-04-21,
+695,6233,10,Display,Minor,In Progress,2025-04-26,
+696,6240,10,Bluetooth,Major,Closed,2025-04-25,2025-05-02
+697,6243,10,Tachometer,Major,Closed,2025-04-25,2025-05-03
+698,6244,10,Odometer,Major,Closed,2025-04-18,2025-05-06
+699,6245,10,CAN Communication,Minor,Open,2025-04-30,
+700,6251,10,Tachometer,Critical,Closed,2025-04-29,2025-05-16
+701,6256,10,Warning Lamps,Major,Closed,2025-04-18,2025-05-08
+702,6268,11,Trip Meter,Major,Closed,2025-07-09,2025-07-18
+703,6274,11,Fuel Gauge,Major,In Progress,2025-07-06,
+704,6279,11,Trip Meter,Major,Closed,2025-07-10,2025-07-18
+705,6281,11,Trip Meter,Major,Closed,2025-07-02,2025-07-19
+706,6284,11,Display,Minor,Closed,2025-07-01,2025-07-03
+707,6290,11,Fuel Gauge,Major,In Progress,2025-07-02,
+708,6292,11,Display,Major,Closed,2025-07-12,2025-07-21
+709,6302,11,Tachometer,Major,Closed,2025-07-07,2025-07-22
+710,6313,11,Bluetooth,Minor,In Progress,2025-07-07,
+711,6340,11,Fuel Gauge,Major,Open,2025-07-12,
+712,6342,11,Fuel Gauge,Minor,In Progress,2025-07-12,
+713,6344,11,Warning Lamps,Minor,Closed,2025-07-13,2025-07-17
+714,6354,11,Warning Lamps,Major,Closed,2025-07-08,2025-07-19
+715,6361,11,Warning Lamps,Minor,Closed,2025-07-12,2025-07-13
+716,6378,11,Trip Meter,Minor,Closed,2025-07-10,2025-07-18
+717,6380,11,Tachometer,Minor,In Progress,2025-07-01,
+718,6388,11,Display,Minor,Closed,2025-07-01,2025-07-04
+719,6396,11,Fuel Gauge,Critical,Closed,2025-07-01,2025-07-06
+720,6401,11,Fuel Gauge,Major,Closed,2025-07-13,2025-07-30
+721,6411,11,Odometer,Minor,Open,2025-07-02,
+722,6412,11,Warning Lamps,Critical,Closed,2025-07-04,2025-07-20
+723,6425,11,Speedometer,Major,Open,2025-07-11,
+724,6460,11,Display,Minor,Closed,2025-07-03,2025-07-17
+725,6483,11,Display,Minor,Closed,2025-07-14,2025-07-21
+726,6488,11,Tachometer,Minor,Closed,2025-07-12,2025-07-15
+727,6500,11,Bluetooth,Major,Open,2025-07-03,
+728,6509,11,UDS Diagnostics,Minor,Closed,2025-07-10,2025-07-20
+729,6523,11,Speedometer,Major,Open,2025-07-06,
+730,6524,11,Warning Lamps,Major,Closed,2025-07-07,2025-07-09
+731,6531,11,Warning Lamps,Minor,In Progress,2025-07-03,
+732,6532,11,Speedometer,Minor,Closed,2025-07-12,2025-07-15
+733,6548,11,Bluetooth,Minor,Closed,2025-07-14,2025-07-30
+734,6570,11,Trip Meter,Minor,Closed,2025-07-07,2025-07-17
+735,6591,11,Speedometer,Minor,Closed,2025-07-11,2025-07-30
+736,6593,11,Bluetooth,Minor,In Progress,2025-07-04,
+737,6601,11,CAN Communication,Major,In Progress,2025-07-09,
+738,6604,11,Warning Lamps,Major,In Progress,2025-07-03,
+739,6606,11,UDS Diagnostics,Major,In Progress,2025-07-08,
+740,6614,11,Fuel Gauge,Minor,Closed,2025-07-01,2025-07-18
+741,6620,11,Warning Lamps,Major,In Progress,2025-07-11,
+742,6634,11,Warning Lamps,Minor,Closed,2025-07-09,2025-07-27
+743,6635,11,Speedometer,Minor,Closed,2025-07-08,2025-07-24
+744,6654,11,Fuel Gauge,Minor,Closed,2025-07-02,2025-07-12
+745,6655,11,Trip Meter,Minor,Closed,2025-07-11,2025-07-26
+746,6658,11,UDS Diagnostics,Critical,Closed,2025-07-07,2025-07-13
+747,6669,11,Display,Major,Open,2025-07-12,
+748,6688,11,Speedometer,Critical,Closed,2025-07-01,2025-07-14
+749,6703,11,Odometer,Minor,Closed,2025-07-01,2025-07-16
+750,6718,11,UDS Diagnostics,Critical,Closed,2025-07-15,2025-07-23
+751,6720,11,Warning Lamps,Critical,Closed,2025-07-06,2025-07-26
+752,6733,11,Trip Meter,Major,Closed,2025-07-01,2025-07-15
+753,6747,11,Trip Meter,Major,Open,2025-07-04,
+754,6750,11,Odometer,Critical,In Progress,2025-07-15,
+755,6755,11,Fuel Gauge,Minor,Open,2025-07-05,
+756,6762,11,Tachometer,Major,Closed,2025-07-03,2025-07-05
+757,6775,11,UDS Diagnostics,Major,Closed,2025-07-03,2025-07-12
+758,6804,11,Fuel Gauge,Minor,Closed,2025-07-08,2025-07-18
+759,6805,11,Trip Meter,Major,In Progress,2025-07-01,
+760,6816,11,Display,Minor,Closed,2025-07-15,2025-07-16
+761,6823,11,Warning Lamps,Minor,Open,2025-07-12,
+762,6825,11,Speedometer,Minor,In Progress,2025-07-11,
+763,6834,11,Bluetooth,Major,In Progress,2025-07-08,
+764,6840,11,Trip Meter,Major,Closed,2025-07-13,2025-07-19
+765,6844,11,Warning Lamps,Major,Closed,2025-07-07,2025-07-17
+766,6847,11,Display,Critical,Closed,2025-07-07,2025-07-12
+767,6851,11,Display,Major,Closed,2025-07-15,2025-08-01
+768,6854,11,Display,Minor,Closed,2025-07-09,2025-07-25
+769,6868,11,Fuel Gauge,Major,Closed,2025-07-05,2025-07-25
+770,6871,11,Fuel Gauge,Major,Closed,2025-07-01,2025-07-08
+771,6872,11,Speedometer,Critical,Closed,2025-07-09,2025-07-26
+772,6877,11,Display,Critical,Closed,2025-07-10,2025-07-30
+773,6884,11,Trip Meter,Major,Closed,2025-07-06,2025-07-21
+774,6897,11,Speedometer,Critical,Open,2025-07-15,
+775,6920,12,Fuel Gauge,Minor,In Progress,2025-08-15,
+776,6945,12,Tachometer,Major,Closed,2025-08-24,2025-08-31
+777,6949,12,CAN Communication,Minor,Closed,2025-08-14,2025-09-03
+778,6959,12,Trip Meter,Critical,Closed,2025-08-25,2025-08-26
+779,6990,12,Warning Lamps,Minor,In Progress,2025-08-20,
+780,7058,12,Display,Major,Closed,2025-08-27,2025-09-06
+781,7080,12,Tachometer,Minor,Closed,2025-08-20,2025-08-30
+782,7111,12,Trip Meter,Minor,Closed,2025-08-26,2025-09-13
+783,7126,12,UDS Diagnostics,Major,Closed,2025-08-21,2025-09-06
+784,7140,12,Fuel Gauge,Minor,Closed,2025-08-16,2025-08-19
+785,7149,12,UDS Diagnostics,Major,Closed,2025-08-19,2025-09-06
+786,7159,12,Bluetooth,Major,Open,2025-08-16,
+787,7170,12,Warning Lamps,Major,Open,2025-08-28,
+788,7202,12,Display,Major,Closed,2025-08-14,2025-08-18
+789,7208,12,CAN Communication,Major,Open,2025-08-20,
+790,7214,12,Fuel Gauge,Major,Closed,2025-08-19,2025-09-04
+791,7262,12,Fuel Gauge,Minor,Closed,2025-08-26,2025-08-31
+792,7275,12,Fuel Gauge,Major,Closed,2025-08-20,2025-08-30
+793,7360,12,UDS Diagnostics,Minor,Closed,2025-08-18,2025-08-29
+794,7363,12,Bluetooth,Major,Closed,2025-08-18,2025-09-04
+795,7375,12,UDS Diagnostics,Minor,In Progress,2025-08-15,
+796,7382,12,CAN Communication,Minor,Closed,2025-08-15,2025-09-03
+797,7418,12,Odometer,Minor,Open,2025-08-18,
+798,7428,12,Odometer,Major,Closed,2025-08-15,2025-09-03
+799,7464,12,Speedometer,Major,Open,2025-08-24,
+800,7472,12,Trip Meter,Major,Open,2025-08-14,
+801,7535,12,Fuel Gauge,Minor,Closed,2025-08-19,2025-08-24
+802,7560,13,CAN Communication,Minor,Closed,2025-02-04,2025-02-06
+803,7565,13,Odometer,Critical,Closed,2025-02-09,2025-02-14
+804,7570,13,Fuel Gauge,Minor,Open,2025-01-30,
+805,7571,13,Tachometer,Minor,Closed,2025-01-29,2025-02-11
+806,7578,13,Fuel Gauge,Major,Closed,2025-02-09,2025-02-24
+807,7582,13,Tachometer,Major,Closed,2025-01-29,2025-02-14
+808,7591,13,Display,Minor,Closed,2025-01-29,2025-02-09
+809,7595,13,Warning Lamps,Minor,Closed,2025-01-29,2025-02-04
+810,7596,13,UDS Diagnostics,Minor,Closed,2025-01-31,2025-02-09
+811,7601,13,UDS Diagnostics,Minor,Closed,2025-02-01,2025-02-16
+812,7606,13,UDS Diagnostics,Minor,Open,2025-02-10,
+813,7608,13,CAN Communication,Major,Closed,2025-02-03,2025-02-21
+814,7615,13,Bluetooth,Minor,Closed,2025-02-01,2025-02-03
+815,7616,13,Warning Lamps,Major,In Progress,2025-02-02,
+816,7618,13,Display,Minor,Closed,2025-02-01,2025-02-16
+817,7621,13,CAN Communication,Minor,Closed,2025-01-31,2025-02-01
+818,7625,13,Bluetooth,Major,Closed,2025-02-10,2025-02-12
+819,7630,13,Odometer,Minor,Open,2025-02-04,
+820,7634,13,Warning Lamps,Critical,Closed,2025-02-02,2025-02-05
+821,7643,13,Bluetooth,Major,Closed,2025-01-27,2025-01-29
+822,7645,13,Warning Lamps,Minor,Closed,2025-02-03,2025-02-06
+823,7660,13,Warning Lamps,Minor,In Progress,2025-02-01,
+824,7662,13,Trip Meter,Major,Open,2025-02-05,
+825,7666,13,Odometer,Minor,Closed,2025-02-02,2025-02-19
+826,7674,13,Warning Lamps,Critical,Closed,2025-02-07,2025-02-15
+827,7677,13,Trip Meter,Minor,Closed,2025-02-02,2025-02-05
+828,7690,13,Bluetooth,Minor,Closed,2025-02-03,2025-02-19
+829,7696,13,Trip Meter,Minor,Closed,2025-02-09,2025-02-10
+830,7702,13,Trip Meter,Critical,In Progress,2025-01-28,
+831,7709,13,Tachometer,Minor,Closed,2025-01-29,2025-01-30
+832,7713,13,UDS Diagnostics,Major,Closed,2025-02-07,2025-02-24
+833,7719,13,Tachometer,Major,Closed,2025-02-02,2025-02-15
+834,7721,13,Bluetooth,Major,Closed,2025-02-01,2025-02-16
+835,7731,13,Bluetooth,Major,Open,2025-02-09,
+836,7745,13,CAN Communication,Minor,Closed,2025-02-07,2025-02-25
+837,7757,13,Bluetooth,Major,Open,2025-02-08,
+838,7758,13,Bluetooth,Minor,Closed,2025-01-30,2025-02-07
+839,7763,13,Display,Major,Closed,2025-01-27,2025-02-14
+840,7772,13,Warning Lamps,Minor,Closed,2025-01-29,2025-02-08
+841,7774,13,Bluetooth,Major,In Progress,2025-01-28,
+842,7782,13,Tachometer,Minor,Closed,2025-02-08,2025-02-27
+843,7786,13,Odometer,Major,In Progress,2025-02-09,
+844,7796,13,Warning Lamps,Major,Closed,2025-01-31,2025-02-09
+845,7799,13,Fuel Gauge,Major,Closed,2025-02-01,2025-02-11
+846,7812,13,Warning Lamps,Major,Closed,2025-02-05,2025-02-25
+847,7813,13,Display,Major,Open,2025-02-04,
+848,7815,13,CAN Communication,Major,Closed,2025-02-03,2025-02-17
+849,7816,13,Trip Meter,Major,Closed,2025-01-27,2025-02-12
+850,7818,13,Warning Lamps,Minor,Closed,2025-02-06,2025-02-21
+851,7821,13,Tachometer,Critical,Closed,2025-01-27,2025-02-13
+852,7828,13,Warning Lamps,Major,Closed,2025-02-08,2025-02-22
+853,7829,13,Bluetooth,Minor,Closed,2025-02-08,2025-02-17
+854,7830,13,Fuel Gauge,Critical,Open,2025-02-06,
+855,7834,13,Display,Minor,Closed,2025-02-10,2025-02-22
+856,7836,13,Trip Meter,Minor,In Progress,2025-02-08,
+857,7837,13,UDS Diagnostics,Major,Closed,2025-01-31,2025-02-07
+858,7839,13,UDS Diagnostics,Minor,Closed,2025-01-30,2025-02-14
+859,7840,13,Bluetooth,Minor,Closed,2025-02-08,2025-02-21
+860,7841,13,Trip Meter,Major,Closed,2025-02-04,2025-02-12
+861,7850,13,Tachometer,Minor,Closed,2025-01-27,2025-01-28
+862,7856,13,Tachometer,Major,Open,2025-01-27,
+863,7878,13,Speedometer,Minor,Closed,2025-02-06,2025-02-18
+864,7879,13,Tachometer,Minor,Open,2025-02-04,
+865,7881,13,Fuel Gauge,Minor,Closed,2025-02-10,2025-02-13
+866,7885,13,Warning Lamps,Critical,Closed,2025-02-04,2025-02-08
+867,7886,13,Display,Minor,Closed,2025-01-31,2025-02-06
+868,7893,13,Fuel Gauge,Minor,Closed,2025-02-10,2025-02-14
+869,7896,13,Bluetooth,Critical,Closed,2025-02-04,2025-02-22
+870,7905,13,Bluetooth,Major,Closed,2025-01-31,2025-02-20
+871,7909,13,Warning Lamps,Minor,Closed,2025-01-30,2025-02-10
+872,7911,13,UDS Diagnostics,Minor,Closed,2025-01-28,2025-02-12
+873,7919,13,Display,Major,Closed,2025-01-30,2025-02-03
+874,7921,13,Tachometer,Major,Closed,2025-02-06,2025-02-08
+875,7925,13,Tachometer,Major,In Progress,2025-01-27,
+876,7933,13,Bluetooth,Minor,Closed,2025-02-01,2025-02-02
+877,7941,13,Tachometer,Critical,Open,2025-01-30,
+878,7943,13,Warning Lamps,Minor,Closed,2025-02-08,2025-02-22
+879,7952,13,CAN Communication,Minor,Closed,2025-02-05,2025-02-15
+880,7960,13,CAN Communication,Major,Closed,2025-01-30,2025-02-10
+881,7963,13,CAN Communication,Minor,Closed,2025-01-31,2025-02-16
+882,7964,13,UDS Diagnostics,Minor,Closed,2025-02-06,2025-02-07
+883,7973,13,Speedometer,Critical,Closed,2025-01-31,2025-02-05
+884,7979,13,Odometer,Major,Closed,2025-01-29,2025-02-14
+885,7982,13,Display,Minor,Closed,2025-02-04,2025-02-08
+886,7986,13,Trip Meter,Major,In Progress,2025-02-06,
+887,7989,13,UDS Diagnostics,Major,Closed,2025-02-08,2025-02-23
+888,7991,13,Trip Meter,Minor,Open,2025-02-01,
+889,7998,13,Bluetooth,Critical,Closed,2025-02-08,2025-02-15
+890,8001,13,Odometer,Major,Closed,2025-02-02,2025-02-14
+891,8004,13,Speedometer,Minor,Closed,2025-02-03,2025-02-12
+892,8006,13,Bluetooth,Major,Closed,2025-02-04,2025-02-16
+893,8013,13,Trip Meter,Minor,Closed,2025-01-31,2025-02-15
+894,8016,13,Trip Meter,Major,Closed,2025-02-02,2025-02-09
+895,8033,13,Tachometer,Minor,Closed,2025-02-09,2025-03-01
+896,8041,13,Fuel Gauge,Major,Closed,2025-02-09,2025-02-22
+897,8045,13,Tachometer,Major,Closed,2025-01-31,2025-02-18
+898,8050,13,Tachometer,Critical,Closed,2025-01-31,2025-02-17
+899,8051,13,Speedometer,Critical,Closed,2025-02-05,2025-02-14
+900,8054,13,Display,Critical,Closed,2025-02-01,2025-02-15
+901,8055,13,UDS Diagnostics,Major,Closed,2025-02-07,2025-02-09
+902,8065,13,Trip Meter,Minor,Open,2025-02-01,
+903,8074,13,Odometer,Minor,Open,2025-02-05,
+904,8078,13,Bluetooth,Major,Open,2025-01-31,
+905,8085,13,CAN Communication,Minor,Closed,2025-02-07,2025-02-25
+906,8101,13,Fuel Gauge,Major,In Progress,2025-01-29,
+907,8105,13,UDS Diagnostics,Minor,Open,2025-02-03,
+908,8107,13,Bluetooth,Minor,Closed,2025-01-27,2025-02-09
+909,8113,13,Speedometer,Minor,Closed,2025-01-31,2025-02-06
+910,8114,13,Tachometer,Major,Closed,2025-02-01,2025-02-20
+911,8122,13,Tachometer,Major,Closed,2025-02-01,2025-02-13
+912,8123,13,Odometer,Major,Closed,2025-02-10,2025-02-23
+913,8133,13,CAN Communication,Major,Closed,2025-01-30,2025-02-02
+914,8145,13,Fuel Gauge,Minor,Closed,2025-02-01,2025-02-20
+915,8153,13,Warning Lamps,Minor,Closed,2025-02-08,2025-02-26
+916,8156,13,CAN Communication,Major,Closed,2025-02-05,2025-02-24
+917,8159,13,Warning Lamps,Major,Open,2025-01-28,
+918,8161,13,Warning Lamps,Major,Open,2025-02-10,
+919,8163,13,Trip Meter,Minor,Open,2025-02-07,
+920,8165,13,Warning Lamps,Minor,Open,2025-01-28,
+921,8202,14,Fuel Gauge,Minor,Closed,2025-03-19,2025-04-01
+922,8208,14,CAN Communication,Minor,Closed,2025-03-11,2025-03-21
+923,8228,14,Warning Lamps,Minor,Open,2025-03-13,
+924,8254,14,Tachometer,Minor,Closed,2025-03-21,2025-04-01
+925,8272,14,Tachometer,Minor,Closed,2025-03-22,2025-03-27
+926,8317,14,Tachometer,Minor,Closed,2025-03-14,2025-03-19
+927,8324,14,Display,Minor,Closed,2025-03-08,2025-03-19
+928,8332,14,Tachometer,Minor,Open,2025-03-20,
+929,8369,14,Odometer,Major,Closed,2025-03-20,2025-03-25
+930,8371,14,Trip Meter,Major,In Progress,2025-03-14,
+931,8383,14,Display,Major,Closed,2025-03-15,2025-03-16
+932,8388,14,UDS Diagnostics,Major,Closed,2025-03-14,2025-03-19
+933,8391,14,Fuel Gauge,Minor,Closed,2025-03-16,2025-04-01
+934,8393,14,Fuel Gauge,Minor,In Progress,2025-03-14,
+935,8394,14,Display,Minor,In Progress,2025-03-22,
+936,8418,14,Odometer,Minor,Closed,2025-03-13,2025-03-27
+937,8428,14,Bluetooth,Major,Closed,2025-03-22,2025-03-28
+938,8432,14,Trip Meter,Major,Closed,2025-03-12,2025-03-20
+939,8433,14,Display,Critical,Closed,2025-03-09,2025-03-11
+940,8439,14,CAN Communication,Major,Open,2025-03-12,
+941,8454,14,Warning Lamps,Critical,Open,2025-03-17,
+942,8487,14,Trip Meter,Minor,Closed,2025-03-14,2025-03-22
+943,8490,14,Bluetooth,Minor,Closed,2025-03-17,2025-03-21
+944,8516,14,Trip Meter,Major,Closed,2025-03-22,2025-03-30
+945,8521,14,Display,Minor,Open,2025-03-15,
+946,8528,14,Bluetooth,Major,Closed,2025-03-13,2025-03-24
+947,8533,14,Odometer,Major,Closed,2025-03-15,2025-03-20
+948,8540,14,Tachometer,Minor,Closed,2025-03-16,2025-04-04
+949,8615,14,Trip Meter,Major,In Progress,2025-03-10,
+950,8628,14,Tachometer,Major,Closed,2025-03-17,2025-03-24
+951,8641,14,Odometer,Minor,Closed,2025-03-21,2025-04-07
+952,8649,14,Warning Lamps,Minor,Closed,2025-03-22,2025-03-30
+953,8651,14,CAN Communication,Minor,Open,2025-03-22,
+954,8657,14,UDS Diagnostics,Critical,Closed,2025-03-16,2025-03-23
+955,8665,14,Trip Meter,Major,Closed,2025-03-18,2025-03-26
+956,8671,14,Odometer,Minor,Closed,2025-03-12,2025-03-19
+957,8692,14,Tachometer,Minor,Closed,2025-03-13,2025-03-22
+958,8711,14,Display,Major,Closed,2025-03-10,2025-03-21
+959,8715,14,Speedometer,Major,Closed,2025-03-13,2025-03-28
+960,8719,14,Odometer,Minor,Open,2025-03-14,
+961,8732,14,Tachometer,Major,Closed,2025-03-09,2025-03-14
+962,8733,14,Tachometer,Minor,Closed,2025-03-10,2025-03-11
+963,8743,14,Trip Meter,Major,Closed,2025-03-08,2025-03-21
+964,8752,14,UDS Diagnostics,Major,Open,2025-03-18,
+965,8758,14,Tachometer,Minor,In Progress,2025-03-11,
+966,8768,15,Tachometer,Major,Open,2025-05-11,
+967,8769,15,Bluetooth,Major,Closed,2025-05-06,2025-05-10
+968,8777,15,UDS Diagnostics,Minor,Closed,2025-04-28,2025-05-16
+969,8827,15,CAN Communication,Minor,Closed,2025-05-03,2025-05-23
+970,8830,15,Tachometer,Minor,In Progress,2025-04-29,
+971,8832,15,Bluetooth,Minor,In Progress,2025-05-10,
+972,8841,15,Speedometer,Major,Closed,2025-04-29,2025-05-06
+973,8842,15,Warning Lamps,Major,Closed,2025-04-30,2025-05-01
+974,8845,15,Warning Lamps,Minor,Closed,2025-05-08,2025-05-24
+975,8851,15,Display,Major,In Progress,2025-05-01,
+976,8866,15,Display,Minor,Open,2025-05-06,
+977,8867,15,Warning Lamps,Major,In Progress,2025-05-03,
+978,8874,15,UDS Diagnostics,Major,Open,2025-04-30,
+979,8891,15,Display,Minor,Closed,2025-05-04,2025-05-22
+980,8896,15,Warning Lamps,Major,Closed,2025-05-05,2025-05-20
+981,8911,15,Trip Meter,Minor,Closed,2025-05-04,2025-05-22
+982,8912,15,Bluetooth,Minor,Open,2025-05-01,
+983,8920,15,Fuel Gauge,Minor,In Progress,2025-05-11,
+984,8922,15,Tachometer,Minor,In Progress,2025-05-01,
+985,8928,15,Bluetooth,Minor,Open,2025-05-09,
+986,8937,15,Speedometer,Major,Open,2025-05-10,
+987,8944,15,Speedometer,Major,Closed,2025-04-29,2025-05-13
+988,8949,15,Display,Minor,Closed,2025-05-05,2025-05-17
+989,8952,15,Trip Meter,Major,Closed,2025-05-10,2025-05-23
+990,8953,15,Bluetooth,Minor,In Progress,2025-05-06,
+991,8958,15,Trip Meter,Major,Closed,2025-05-09,2025-05-10
+992,8965,15,Bluetooth,Minor,In Progress,2025-05-04,
+993,8969,15,Trip Meter,Minor,Closed,2025-05-01,2025-05-02
+994,8971,15,Bluetooth,Minor,In Progress,2025-05-06,
+995,8987,15,Fuel Gauge,Critical,Closed,2025-05-12,2025-05-13
+996,8994,15,Warning Lamps,Critical,Closed,2025-05-08,2025-05-09
+997,9015,15,Warning Lamps,Major,Closed,2025-05-12,2025-05-25
+998,9029,15,UDS Diagnostics,Minor,Closed,2025-04-29,2025-05-13
+999,9030,15,Warning Lamps,Major,Closed,2025-05-04,2025-05-05
+1000,9044,15,Tachometer,Minor,Open,2025-05-04,
+1001,9057,15,UDS Diagnostics,Minor,Open,2025-05-09,
+1002,9066,15,Trip Meter,Major,Closed,2025-05-11,2025-05-17
+1003,9067,15,Speedometer,Minor,Closed,2025-04-29,2025-05-10
+1004,9069,15,Odometer,Minor,In Progress,2025-04-30,
+1005,9078,15,UDS Diagnostics,Minor,In Progress,2025-05-02,
+1006,9080,15,Warning Lamps,Minor,Closed,2025-05-12,2025-05-31
+1007,9097,15,Tachometer,Major,Open,2025-04-28,
+1008,9105,15,CAN Communication,Major,Closed,2025-05-08,2025-05-15
+1009,9107,15,Tachometer,Minor,Closed,2025-05-04,2025-05-23
+1010,9115,15,Bluetooth,Major,In Progress,2025-05-01,
+1011,9121,15,UDS Diagnostics,Major,Closed,2025-05-05,2025-05-21
+1012,9135,15,Bluetooth,Minor,Closed,2025-05-02,2025-05-19
+1013,9138,15,Speedometer,Major,Closed,2025-05-12,2025-05-29
+1014,9156,15,Fuel Gauge,Minor,Closed,2025-04-28,2025-04-30
+1015,9162,15,CAN Communication,Minor,Closed,2025-05-08,2025-05-09
+1016,9178,15,Bluetooth,Minor,Closed,2025-05-04,2025-05-21
+1017,9186,15,Fuel Gauge,Minor,Closed,2025-05-12,2025-05-31
+1018,9201,15,Display,Minor,Closed,2025-04-28,2025-05-04
+1019,9205,15,Bluetooth,Minor,Closed,2025-05-04,2025-05-05
+1020,9235,15,Tachometer,Minor,Closed,2025-05-12,2025-05-14
+1021,9245,15,Tachometer,Minor,Closed,2025-04-30,2025-05-04
+1022,9270,15,CAN Communication,Minor,Closed,2025-05-09,2025-05-27
+1023,9272,15,Warning Lamps,Minor,Closed,2025-04-29,2025-05-13
+1024,9296,15,UDS Diagnostics,Minor,In Progress,2025-05-11,
+1025,9298,15,Warning Lamps,Major,Open,2025-05-01,
+1026,9326,15,Fuel Gauge,Major,Open,2025-05-07,
+1027,9335,15,UDS Diagnostics,Minor,Closed,2025-05-02,2025-05-21
+1028,9348,15,CAN Communication,Minor,Open,2025-04-28,
+1029,9350,15,Tachometer,Major,Closed,2025-05-11,2025-05-14
+1030,9359,15,UDS Diagnostics,Minor,Closed,2025-05-05,2025-05-14
+1031,9383,15,Fuel Gauge,Minor,Closed,2025-05-01,2025-05-13
+1032,9384,15,Bluetooth,Minor,Closed,2025-05-04,2025-05-15
+1033,9415,16,Warning Lamps,Minor,Closed,2025-06-17,2025-07-05
+1034,9430,16,Tachometer,Major,In Progress,2025-06-06,
+1035,9483,16,Trip Meter,Minor,Closed,2025-06-18,2025-06-22
+1036,9614,16,Bluetooth,Major,Closed,2025-06-10,2025-06-22
+1037,9637,16,Trip Meter,Minor,In Progress,2025-06-11,
+1038,9644,16,Bluetooth,Minor,Closed,2025-06-20,2025-07-03
+1039,9683,16,Trip Meter,Major,In Progress,2025-06-12,
+1040,9775,16,Warning Lamps,Minor,Closed,2025-06-06,2025-06-08
+1041,9796,16,Fuel Gauge,Minor,Closed,2025-06-16,2025-06-26
+1042,9857,16,Speedometer,Major,Open,2025-06-07,
+1043,9950,16,Bluetooth,Minor,Closed,2025-06-17,2025-06-23
+1044,9962,16,Warning Lamps,Minor,Closed,2025-06-08,2025-06-22
+1045,9986,16,Warning Lamps,Minor,Open,2025-06-17,
+1046,10003,16,CAN Communication,Minor,Closed,2025-06-06,2025-06-15
+1047,10026,16,Warning Lamps,Major,Closed,2025-06-12,2025-07-02
+1048,10034,16,Warning Lamps,Major,Closed,2025-06-15,2025-07-05
+1049,10063,17,Display,Major,In Progress,2025-01-28,
+1050,10065,17,Fuel Gauge,Major,Closed,2025-01-20,2025-01-29
+1051,10071,17,Warning Lamps,Major,Open,2025-01-18,
+1052,10072,17,UDS Diagnostics,Major,Closed,2025-01-28,2025-02-01
+1053,10073,17,UDS Diagnostics,Minor,Open,2025-01-24,
+1054,10074,17,Trip Meter,Minor,In Progress,2025-01-16,
+1055,10084,17,Warning Lamps,Major,Closed,2025-01-21,2025-02-05
+1056,10091,17,Fuel Gauge,Minor,Closed,2025-01-16,2025-02-01
+1057,10092,17,Warning Lamps,Critical,Open,2025-01-26,
+1058,10098,17,Warning Lamps,Major,Open,2025-01-21,
+1059,10099,17,Trip Meter,Major,Closed,2025-01-17,2025-01-22
+1060,10117,17,Display,Major,Open,2025-01-16,
+1061,10118,17,Display,Minor,Open,2025-01-28,
+1062,10121,17,Display,Minor,In Progress,2025-01-23,
+1063,10122,17,Warning Lamps,Major,Closed,2025-01-19,2025-02-04
+1064,10128,17,Trip Meter,Major,Closed,2025-01-21,2025-02-06
+1065,10129,17,UDS Diagnostics,Minor,Closed,2025-01-23,2025-02-11
+1066,10132,17,Odometer,Major,Open,2025-01-16,
+1067,10139,17,Speedometer,Minor,Closed,2025-01-29,2025-02-12
+1068,10144,17,Tachometer,Major,Closed,2025-01-18,2025-01-22
+1069,10150,17,Bluetooth,Major,Closed,2025-01-21,2025-02-05
+1070,10159,17,UDS Diagnostics,Major,In Progress,2025-01-23,
+1071,10164,17,UDS Diagnostics,Minor,In Progress,2025-01-26,
+1072,10169,17,UDS Diagnostics,Minor,Closed,2025-01-27,2025-02-16
+1073,10172,17,Warning Lamps,Critical,Open,2025-01-26,
+1074,10181,17,Bluetooth,Minor,Closed,2025-01-20,2025-01-25
+1075,10188,17,Display,Minor,Closed,2025-01-25,2025-02-02
+1076,10192,17,Tachometer,Major,Closed,2025-01-29,2025-02-04
+1077,10197,17,Tachometer,Major,Closed,2025-01-22,2025-02-07
+1078,10201,17,Warning Lamps,Major,Closed,2025-01-21,2025-02-05
+1079,10204,17,Fuel Gauge,Major,Closed,2025-01-29,2025-02-06
+1080,10208,17,Fuel Gauge,Minor,Open,2025-01-23,
+1081,10211,17,Odometer,Minor,Open,2025-01-18,
+1082,10216,17,Trip Meter,Major,Open,2025-01-22,
+1083,10219,17,Bluetooth,Minor,Closed,2025-01-22,2025-02-10
+1084,10223,17,Trip Meter,Minor,Closed,2025-01-19,2025-01-30
+1085,10228,17,Fuel Gauge,Major,Open,2025-01-21,
+1086,10234,17,Fuel Gauge,Minor,In Progress,2025-01-18,
+1087,10243,17,Display,Major,Closed,2025-01-19,2025-02-07
+1088,10244,17,UDS Diagnostics,Minor,Open,2025-01-21,
+1089,10245,17,Trip Meter,Minor,Closed,2025-01-25,2025-02-07
+1090,10246,17,Warning Lamps,Major,Closed,2025-01-25,2025-02-08
+1091,10247,17,Bluetooth,Minor,Closed,2025-01-28,2025-01-31
+1092,10250,17,Trip Meter,Minor,Open,2025-01-25,
+1093,10256,17,Trip Meter,Major,Closed,2025-01-18,2025-02-06
+1094,10257,17,Speedometer,Major,In Progress,2025-01-19,
+1095,10262,17,Warning Lamps,Minor,Closed,2025-01-18,2025-01-27
+1096,10266,17,Speedometer,Critical,Open,2025-01-19,
+1097,10284,17,Warning Lamps,Major,Closed,2025-01-28,2025-02-04
+1098,10290,17,Tachometer,Major,Closed,2025-01-19,2025-02-03
+1099,10292,17,Fuel Gauge,Major,Closed,2025-01-21,2025-02-05
+1100,10298,17,Display,Minor,Closed,2025-01-29,2025-02-18
+1101,10302,17,Warning Lamps,Major,Closed,2025-01-17,2025-02-04
+1102,10306,17,UDS Diagnostics,Minor,Closed,2025-01-30,2025-02-16
+1103,10322,17,Bluetooth,Minor,Closed,2025-01-22,2025-02-02
+1104,10338,17,Bluetooth,Minor,Open,2025-01-29,
+1105,10343,17,UDS Diagnostics,Minor,Closed,2025-01-21,2025-02-04
+1106,10348,17,Odometer,Minor,Closed,2025-01-26,2025-02-04
+1107,10349,17,Speedometer,Major,In Progress,2025-01-30,
+1108,10355,17,Speedometer,Major,Closed,2025-01-25,2025-02-01
+1109,10360,17,Speedometer,Minor,Closed,2025-01-23,2025-02-10
+1110,10364,17,Warning Lamps,Critical,Closed,2025-01-21,2025-02-07
+1111,10369,17,CAN Communication,Critical,In Progress,2025-01-21,
+1112,10370,17,Speedometer,Minor,In Progress,2025-01-21,
+1113,10375,17,Trip Meter,Major,Closed,2025-01-22,2025-01-29
+1114,10377,17,Display,Minor,Closed,2025-01-28,2025-02-09
+1115,10379,17,Fuel Gauge,Major,Open,2025-01-23,
+1116,10381,17,UDS Diagnostics,Major,Open,2025-01-18,
+1117,10384,17,UDS Diagnostics,Major,In Progress,2025-01-29,
+1118,10385,17,UDS Diagnostics,Major,Closed,2025-01-17,2025-01-31
+1119,10407,17,Warning Lamps,Minor,Closed,2025-01-17,2025-01-22
+1120,10411,17,Fuel Gauge,Minor,Closed,2025-01-19,2025-01-23
+1121,10413,17,Fuel Gauge,Minor,Open,2025-01-16,
+1122,10416,17,Speedometer,Minor,Closed,2025-01-21,2025-01-29
+1123,10430,17,Bluetooth,Minor,Closed,2025-01-24,2025-02-10
+1124,10443,17,Trip Meter,Minor,Closed,2025-01-30,2025-02-12
+1125,10448,17,Warning Lamps,Major,Closed,2025-01-16,2025-01-31
+1126,10451,17,CAN Communication,Minor,Open,2025-01-30,
+1127,10468,17,UDS Diagnostics,Major,Closed,2025-01-20,2025-01-22
+1128,10469,17,Odometer,Major,Closed,2025-01-20,2025-01-27
+1129,10470,17,Fuel Gauge,Minor,Closed,2025-01-20,2025-01-29
+1130,10485,17,Warning Lamps,Critical,Closed,2025-01-30,2025-01-31
+1131,10489,17,Fuel Gauge,Minor,Closed,2025-01-28,2025-02-06
+1132,10499,17,UDS Diagnostics,Minor,Closed,2025-01-17,2025-01-31
+1133,10507,17,Bluetooth,Minor,Closed,2025-01-18,2025-01-27
+1134,10510,17,Warning Lamps,Minor,In Progress,2025-01-18,
+1135,10517,17,CAN Communication,Minor,In Progress,2025-01-24,
+1136,10521,17,Odometer,Minor,Closed,2025-01-16,2025-01-27
+1137,10523,17,UDS Diagnostics,Minor,Closed,2025-01-26,2025-02-01
+1138,10529,17,Fuel Gauge,Major,Closed,2025-01-22,2025-01-28
+1139,10536,17,Warning Lamps,Critical,Closed,2025-01-17,2025-01-31
+1140,10537,17,Trip Meter,Minor,Closed,2025-01-29,2025-01-31
+1141,10541,17,Odometer,Major,Open,2025-01-29,
+1142,10542,17,Warning Lamps,Minor,Open,2025-01-26,
+1143,10549,17,Warning Lamps,Major,Closed,2025-01-26,2025-01-28
+1144,10561,17,CAN Communication,Minor,Closed,2025-01-18,2025-01-25
+1145,10568,17,Speedometer,Major,Closed,2025-01-22,2025-02-09
+1146,10569,17,Odometer,Minor,Closed,2025-01-17,2025-01-26
+1147,10570,17,Speedometer,Major,Closed,2025-01-18,2025-01-30
+1148,10577,17,Display,Major,Closed,2025-01-28,2025-02-14
+1149,10578,17,Fuel Gauge,Minor,Closed,2025-01-28,2025-02-17
+1150,10584,17,Fuel Gauge,Major,Closed,2025-01-26,2025-02-11
+1151,10591,17,Fuel Gauge,Minor,In Progress,2025-01-24,
+1152,10592,17,Tachometer,Major,Closed,2025-01-28,2025-02-11
+1153,10593,17,Fuel Gauge,Minor,Closed,2025-01-25,2025-01-28
+1154,10600,17,Odometer,Critical,Closed,2025-01-16,2025-01-24
+1155,10601,17,Warning Lamps,Minor,Open,2025-01-24,
+1156,10604,17,UDS Diagnostics,Minor,Closed,2025-01-25,2025-01-26
+1157,10606,17,Warning Lamps,Major,Closed,2025-01-17,2025-01-27
+1158,10609,17,Tachometer,Minor,Closed,2025-01-19,2025-02-01
+1159,10619,17,Warning Lamps,Critical,Closed,2025-01-25,2025-02-07
+1160,10625,17,Warning Lamps,Minor,In Progress,2025-01-26,
+1161,10627,17,Display,Minor,In Progress,2025-01-23,
+1162,10641,17,CAN Communication,Minor,Open,2025-01-19,
+1163,10652,17,UDS Diagnostics,Minor,Closed,2025-01-21,2025-01-31
+1164,10654,17,Trip Meter,Minor,Closed,2025-01-24,2025-02-10
+1165,10657,17,Fuel Gauge,Minor,Closed,2025-01-20,2025-01-30
+1166,10661,17,Bluetooth,Minor,Closed,2025-01-26,2025-02-05
+1167,10665,17,Odometer,Critical,Closed,2025-01-24,2025-02-06
+1168,10669,17,CAN Communication,Minor,Closed,2025-01-23,2025-01-24
+1169,10670,17,UDS Diagnostics,Major,Closed,2025-01-20,2025-02-08
+1170,10684,17,Warning Lamps,Critical,Closed,2025-01-27,2025-02-13
+1171,10689,18,Tachometer,Minor,Closed,2025-03-20,2025-03-30
+1172,10708,18,Tachometer,Critical,Closed,2025-03-16,2025-03-23
+1173,10713,18,Bluetooth,Minor,Closed,2025-03-12,2025-03-26
+1174,10731,18,Display,Major,Open,2025-03-18,
+1175,10748,18,Speedometer,Minor,Closed,2025-03-25,2025-03-28
+1176,10764,18,Fuel Gauge,Major,In Progress,2025-03-15,
+1177,10775,18,Warning Lamps,Minor,Closed,2025-03-25,2025-03-30
+1178,10795,18,CAN Communication,Minor,Open,2025-03-13,
+1179,10802,18,CAN Communication,Minor,Closed,2025-03-25,2025-04-04
+1180,10818,18,Trip Meter,Minor,Open,2025-03-11,
+1181,10840,18,Warning Lamps,Critical,Closed,2025-03-13,2025-03-29
+1182,10849,18,Warning Lamps,Major,Closed,2025-03-20,2025-04-03
+1183,10852,18,Fuel Gauge,Major,In Progress,2025-03-22,
+1184,10878,18,Bluetooth,Critical,Closed,2025-03-11,2025-03-25
+1185,10905,18,Warning Lamps,Minor,Closed,2025-03-23,2025-03-28
+1186,10918,18,Odometer,Major,Closed,2025-03-20,2025-03-25
+1187,10919,18,Fuel Gauge,Major,Open,2025-03-24,
+1188,10928,18,UDS Diagnostics,Critical,Open,2025-03-12,
+1189,10940,18,Display,Major,Open,2025-03-21,
+1190,10947,18,Warning Lamps,Minor,Closed,2025-03-23,2025-04-08
+1191,10949,18,UDS Diagnostics,Major,In Progress,2025-03-11,
+1192,10958,18,UDS Diagnostics,Major,Closed,2025-03-12,2025-03-24
+1193,10974,18,Tachometer,Major,Closed,2025-03-11,2025-03-17
+1194,10978,18,Display,Major,Closed,2025-03-20,2025-03-30
+1195,10979,18,CAN Communication,Minor,Closed,2025-03-11,2025-03-26
+1196,11017,18,Trip Meter,Minor,Closed,2025-03-12,2025-03-30
+1197,11023,18,Fuel Gauge,Minor,Open,2025-03-20,
+1198,11043,18,Tachometer,Minor,Closed,2025-03-11,2025-03-25
+1199,11076,18,Display,Minor,Closed,2025-03-20,2025-04-07
+1200,11078,18,Tachometer,Major,In Progress,2025-03-15,
+1201,11086,18,Display,Major,Closed,2025-03-19,2025-03-25
+1202,11095,18,Speedometer,Critical,Closed,2025-03-18,2025-03-31
+1203,11102,18,Display,Minor,Closed,2025-03-18,2025-04-02
+1204,11114,18,Warning Lamps,Minor,In Progress,2025-03-14,
+1205,11117,18,Fuel Gauge,Critical,Closed,2025-03-17,2025-04-04
+1206,11128,18,Fuel Gauge,Minor,In Progress,2025-03-24,
+1207,11132,18,Trip Meter,Major,Closed,2025-03-18,2025-03-24
+1208,11133,18,CAN Communication,Minor,Closed,2025-03-13,2025-03-28
+1209,11143,18,Warning Lamps,Critical,In Progress,2025-03-11,
+1210,11160,18,Speedometer,Major,Closed,2025-03-20,2025-04-04
+1211,11173,18,Bluetooth,Minor,Open,2025-03-12,
+1212,11186,18,Speedometer,Minor,Closed,2025-03-12,2025-03-15
+1213,11187,18,Warning Lamps,Critical,In Progress,2025-03-18,
+1214,11199,18,Tachometer,Major,In Progress,2025-03-17,
+1215,11204,18,Trip Meter,Major,Open,2025-03-17,
+1216,11209,18,Fuel Gauge,Minor,Open,2025-03-13,
+1217,11215,18,Odometer,Major,Closed,2025-03-17,2025-03-23
+1218,11222,18,Display,Minor,Closed,2025-03-17,2025-04-05
+1219,11235,18,CAN Communication,Minor,Open,2025-03-23,
+1220,11240,18,Tachometer,Minor,Closed,2025-03-19,2025-03-25
+1221,11259,18,Speedometer,Major,Closed,2025-03-22,2025-04-06
+1222,11261,18,Fuel Gauge,Major,Closed,2025-03-23,2025-04-10
+1223,11262,18,Warning Lamps,Minor,Closed,2025-03-17,2025-03-22
+1224,11275,19,Odometer,Minor,In Progress,2025-05-11,
+1225,11290,19,Tachometer,Minor,Closed,2025-05-12,2025-05-28
+1226,11297,19,UDS Diagnostics,Major,Closed,2025-05-16,2025-06-05
+1227,11308,19,Odometer,Major,Closed,2025-05-06,2025-05-07
+1228,11318,19,Trip Meter,Critical,In Progress,2025-05-02,
+1229,11321,19,Tachometer,Major,Closed,2025-05-11,2025-05-24
+1230,11331,19,Tachometer,Critical,In Progress,2025-05-02,
+1231,11332,19,Trip Meter,Minor,Closed,2025-05-12,2025-05-16
+1232,11349,19,Display,Major,Closed,2025-05-03,2025-05-05
+1233,11354,19,Trip Meter,Major,Closed,2025-05-16,2025-06-01
+1234,11362,19,Trip Meter,Critical,Closed,2025-05-04,2025-05-18
+1235,11366,19,CAN Communication,Minor,Closed,2025-05-09,2025-05-16
+1236,11392,19,Warning Lamps,Minor,Closed,2025-05-14,2025-06-03
+1237,11393,19,CAN Communication,Major,Closed,2025-05-03,2025-05-11
+1238,11403,19,Tachometer,Minor,Closed,2025-05-12,2025-06-01
+1239,11410,19,Display,Minor,Closed,2025-05-14,2025-05-20
+1240,11425,19,Display,Major,Closed,2025-05-04,2025-05-17
+1241,11426,19,UDS Diagnostics,Minor,Closed,2025-05-08,2025-05-28
+1242,11431,19,Bluetooth,Critical,Closed,2025-05-04,2025-05-22
+1243,11448,19,Fuel Gauge,Major,Closed,2025-05-14,2025-05-18
+1244,11451,19,Speedometer,Critical,In Progress,2025-05-15,
+1245,11453,19,UDS Diagnostics,Minor,Closed,2025-05-13,2025-05-28
+1246,11482,19,Trip Meter,Critical,Closed,2025-05-15,2025-05-21
+1247,11490,19,Bluetooth,Minor,Closed,2025-05-14,2025-05-25
+1248,11493,19,Warning Lamps,Minor,Closed,2025-05-16,2025-05-20
+1249,11511,19,CAN Communication,Minor,Closed,2025-05-13,2025-05-14
+1250,11519,19,Tachometer,Minor,Closed,2025-05-02,2025-05-08
+1251,11526,19,Tachometer,Minor,Closed,2025-05-11,2025-05-23
+1252,11538,19,Speedometer,Major,Closed,2025-05-12,2025-06-01
+1253,11546,19,CAN Communication,Minor,Open,2025-05-06,
+1254,11549,19,CAN Communication,Major,Closed,2025-05-16,2025-05-17
+1255,11563,19,Fuel Gauge,Major,Closed,2025-05-06,2025-05-13
+1256,11579,19,CAN Communication,Major,Closed,2025-05-15,2025-05-18
+1257,11602,19,Warning Lamps,Minor,Closed,2025-05-07,2025-05-21
+1258,11603,19,CAN Communication,Minor,Closed,2025-05-12,2025-05-28
+1259,11610,19,Fuel Gauge,Critical,Closed,2025-05-04,2025-05-12
+1260,11611,19,Speedometer,Minor,Closed,2025-05-08,2025-05-12
+1261,11617,19,Speedometer,Critical,Closed,2025-05-13,2025-05-31
+1262,11629,19,UDS Diagnostics,Major,Closed,2025-05-04,2025-05-17
+1263,11644,19,Fuel Gauge,Major,Closed,2025-05-03,2025-05-10
+1264,11645,19,Trip Meter,Major,Open,2025-05-02,
+1265,11650,19,Warning Lamps,Minor,Closed,2025-05-05,2025-05-07
+1266,11655,19,Trip Meter,Major,Closed,2025-05-03,2025-05-05
+1267,11667,19,Warning Lamps,Major,Closed,2025-05-12,2025-05-25
+1268,11671,19,Warning Lamps,Critical,Closed,2025-05-15,2025-05-26
+1269,11675,19,Warning Lamps,Major,Open,2025-05-14,
+1270,11697,19,Trip Meter,Minor,Closed,2025-05-11,2025-05-27
+1271,11714,19,Bluetooth,Minor,In Progress,2025-05-13,
+1272,11724,19,Speedometer,Major,In Progress,2025-05-08,
+1273,11731,19,Display,Critical,Open,2025-05-15,
+1274,11732,19,CAN Communication,Minor,Closed,2025-05-02,2025-05-16
+1275,11744,19,Display,Major,Closed,2025-05-15,2025-05-23
+1276,11745,19,Fuel Gauge,Minor,In Progress,2025-05-05,
+1277,11755,19,Odometer,Critical,Closed,2025-05-03,2025-05-18
+1278,11757,19,Fuel Gauge,Critical,Closed,2025-05-16,2025-05-17
+1279,11779,19,Speedometer,Critical,Open,2025-05-06,
+1280,11787,19,Bluetooth,Minor,Closed,2025-05-02,2025-05-11
+1281,11790,19,Fuel Gauge,Major,Open,2025-05-09,
+1282,11791,19,Trip Meter,Minor,In Progress,2025-05-15,
+1283,11803,19,Speedometer,Minor,Closed,2025-05-12,2025-05-24
+1284,11837,19,Trip Meter,Minor,Closed,2025-05-11,2025-05-14
+1285,11839,19,Fuel Gauge,Major,Closed,2025-05-08,2025-05-10
+1286,11844,19,Tachometer,Major,Closed,2025-05-13,2025-05-23
+1287,11855,19,Odometer,Minor,Closed,2025-05-12,2025-05-22
+1288,11864,19,Tachometer,Minor,Closed,2025-05-11,2025-05-19
+1289,11870,19,Bluetooth,Minor,Closed,2025-05-12,2025-05-14
+1290,11883,19,Fuel Gauge,Minor,In Progress,2025-05-10,
+1291,11887,19,Trip Meter,Minor,Closed,2025-05-10,2025-05-15
+1292,11903,20,Odometer,Major,Closed,2025-07-23,2025-08-09
+1293,11940,20,Warning Lamps,Major,Closed,2025-07-15,2025-07-30
+1294,11950,20,Tachometer,Major,Open,2025-07-16,
+1295,11972,20,Warning Lamps,Minor,Closed,2025-07-16,2025-07-19
+1296,12006,20,Warning Lamps,Major,Closed,2025-07-19,2025-07-25
+1297,12010,20,UDS Diagnostics,Minor,Closed,2025-07-13,2025-07-21
+1298,12014,20,Fuel Gauge,Critical,Closed,2025-07-22,2025-07-30
+1299,12029,20,Bluetooth,Major,Closed,2025-07-20,2025-08-03
+1300,12081,20,Display,Minor,Closed,2025-07-15,2025-07-17
+1301,12145,20,Display,Minor,Open,2025-07-11,
+1302,12165,20,UDS Diagnostics,Minor,Closed,2025-07-20,2025-08-04
+1303,12170,20,UDS Diagnostics,Major,In Progress,2025-07-12,
+1304,12188,20,Bluetooth,Critical,Closed,2025-07-22,2025-08-10
+1305,12219,20,Warning Lamps,Major,Closed,2025-07-10,2025-07-26
+1306,12221,20,CAN Communication,Critical,In Progress,2025-07-10,
+1307,12227,20,Fuel Gauge,Critical,Closed,2025-07-10,2025-07-20
+1308,12249,20,Warning Lamps,Minor,Closed,2025-07-09,2025-07-25
+1309,12265,20,Display,Major,In Progress,2025-07-19,
+1310,12275,20,CAN Communication,Major,In Progress,2025-07-14,
+1311,12315,20,Tachometer,Major,In Progress,2025-07-14,
+1312,12335,20,UDS Diagnostics,Minor,Closed,2025-07-16,2025-08-03
+1313,12345,20,Tachometer,Minor,Closed,2025-07-17,2025-07-25
+1314,12364,20,Warning Lamps,Major,Closed,2025-07-10,2025-07-21
+1315,12379,20,UDS Diagnostics,Minor,Closed,2025-07-17,2025-07-27
+1316,12391,20,UDS Diagnostics,Minor,In Progress,2025-07-09,
+1317,12432,20,UDS Diagnostics,Minor,Open,2025-07-09,
+1318,12460,20,Speedometer,Major,Closed,2025-07-22,2025-08-04
+1319,12494,20,UDS Diagnostics,Minor,Open,2025-07-10,
+1320,12507,20,Speedometer,Major,Closed,2025-07-12,2025-08-01
+1321,12537,20,Display,Minor,Closed,2025-07-09,2025-07-27
+1322,12544,20,Display,Minor,Open,2025-07-18,
+1323,12546,20,UDS Diagnostics,Minor,Closed,2025-07-10,2025-07-15
+1324,12553,20,CAN Communication,Minor,Closed,2025-07-10,2025-07-12
+1325,12555,21,Fuel Gauge,Major,Closed,2025-02-22,2025-03-07
+1326,12560,21,Tachometer,Minor,Closed,2025-02-14,2025-02-23
+1327,12562,21,Speedometer,Major,Closed,2025-02-22,2025-03-08
+1328,12565,21,Warning Lamps,Minor,Closed,2025-02-21,2025-03-09
+1329,12567,21,Trip Meter,Major,Open,2025-02-22,
+1330,12570,21,CAN Communication,Minor,In Progress,2025-02-10,
+1331,12574,21,Tachometer,Major,Closed,2025-02-16,2025-03-06
+1332,12581,21,CAN Communication,Minor,Closed,2025-02-20,2025-03-04
+1333,12589,21,Fuel Gauge,Major,In Progress,2025-02-12,
+1334,12595,21,Tachometer,Major,Closed,2025-02-18,2025-02-26
+1335,12598,21,Warning Lamps,Major,Closed,2025-02-10,2025-02-20
+1336,12600,21,CAN Communication,Major,Closed,2025-02-10,2025-02-26
+1337,12609,21,Fuel Gauge,Major,Closed,2025-02-19,2025-02-25
+1338,12614,21,UDS Diagnostics,Critical,Closed,2025-02-18,2025-02-20
+1339,12620,21,Fuel Gauge,Major,Closed,2025-02-10,2025-02-11
+1340,12622,21,Speedometer,Minor,Closed,2025-02-14,2025-02-19
+1341,12624,21,Odometer,Major,Closed,2025-02-20,2025-03-09
+1342,12628,21,Odometer,Minor,Closed,2025-02-20,2025-03-09
+1343,12638,21,Speedometer,Major,Closed,2025-02-15,2025-02-19
+1344,12643,21,Speedometer,Major,Closed,2025-02-21,2025-03-03
+1345,12665,21,Trip Meter,Major,Closed,2025-02-15,2025-02-18
+1346,12673,21,Speedometer,Minor,Closed,2025-02-12,2025-02-26
+1347,12674,21,Bluetooth,Critical,Open,2025-02-10,
+1348,12680,21,Warning Lamps,Major,Open,2025-02-20,
+1349,12687,21,Speedometer,Major,Open,2025-02-22,
+1350,12694,21,UDS Diagnostics,Major,Closed,2025-02-22,2025-03-08
+1351,12695,21,Bluetooth,Major,Closed,2025-02-11,2025-03-02
+1352,12697,21,UDS Diagnostics,Major,Open,2025-02-20,
+1353,12698,21,Bluetooth,Major,Closed,2025-02-12,2025-03-02
+1354,12700,21,CAN Communication,Major,Closed,2025-02-13,2025-03-02
+1355,12704,21,Speedometer,Minor,Closed,2025-02-12,2025-02-16
+1356,12714,21,Bluetooth,Major,Closed,2025-02-11,2025-02-16
+1357,12725,21,Display,Critical,Closed,2025-02-11,2025-02-26
+1358,12729,21,Fuel Gauge,Minor,Closed,2025-02-17,2025-03-07
+1359,12730,21,CAN Communication,Minor,Closed,2025-02-15,2025-03-01
+1360,12733,21,UDS Diagnostics,Minor,Closed,2025-02-17,2025-03-02
+1361,12745,21,Speedometer,Minor,Closed,2025-02-17,2025-02-28
+1362,12748,21,Trip Meter,Minor,Closed,2025-02-16,2025-03-04
+1363,12750,21,Trip Meter,Minor,Closed,2025-02-16,2025-02-22
+1364,12752,21,Fuel Gauge,Minor,In Progress,2025-02-12,
+1365,12755,21,UDS Diagnostics,Minor,Closed,2025-02-09,2025-02-28
+1366,12762,21,Speedometer,Minor,Closed,2025-02-18,2025-02-24
+1367,12767,21,Bluetooth,Major,Closed,2025-02-09,2025-02-14
+1368,12771,21,Odometer,Minor,Open,2025-02-21,
+1369,12776,21,CAN Communication,Major,Open,2025-02-22,
+1370,12779,21,Bluetooth,Minor,Closed,2025-02-17,2025-02-20
+1371,12782,21,Fuel Gauge,Minor,Closed,2025-02-13,2025-02-22
+1372,12785,21,UDS Diagnostics,Minor,Open,2025-02-19,
+1373,12787,21,Odometer,Minor,Closed,2025-02-20,2025-03-10
+1374,12788,21,Bluetooth,Minor,Closed,2025-02-10,2025-02-23
+1375,12790,21,Fuel Gauge,Major,Open,2025-02-11,
+1376,12794,21,Warning Lamps,Major,Closed,2025-02-14,2025-02-21
+1377,12800,21,Warning Lamps,Minor,Closed,2025-02-11,2025-03-03
+1378,12801,21,Tachometer,Major,Closed,2025-02-14,2025-03-04
+1379,12806,21,Tachometer,Major,Closed,2025-02-17,2025-02-25
+1380,12817,21,UDS Diagnostics,Major,Closed,2025-02-20,2025-02-21
+1381,12818,21,Fuel Gauge,Minor,Closed,2025-02-14,2025-02-23
+1382,12820,21,Trip Meter,Major,Closed,2025-02-16,2025-02-24
+1383,12822,21,Trip Meter,Major,Closed,2025-02-18,2025-02-20
+1384,12831,21,Tachometer,Critical,Closed,2025-02-14,2025-02-24
+1385,12833,21,Bluetooth,Minor,Closed,2025-02-21,2025-03-12
+1386,12840,21,Tachometer,Minor,Closed,2025-02-18,2025-02-21
+1387,12843,21,Odometer,Major,Closed,2025-02-19,2025-03-03
+1388,12849,21,Bluetooth,Minor,Closed,2025-02-21,2025-02-22
+1389,12850,21,UDS Diagnostics,Minor,Open,2025-02-20,
+1390,12853,21,Speedometer,Minor,Open,2025-02-17,
+1391,12855,21,Tachometer,Major,In Progress,2025-02-17,
+1392,12863,21,Bluetooth,Minor,Closed,2025-02-18,2025-02-25
+1393,12870,21,Warning Lamps,Minor,Closed,2025-02-22,2025-03-14
+1394,12877,21,Bluetooth,Minor,Closed,2025-02-12,2025-02-28
+1395,12885,21,Odometer,Minor,Closed,2025-02-13,2025-02-26
+1396,12886,21,Trip Meter,Minor,Closed,2025-02-20,2025-03-06
+1397,12898,21,UDS Diagnostics,Minor,Closed,2025-02-20,2025-03-03
+1398,12900,21,Bluetooth,Major,Closed,2025-02-22,2025-03-13
+1399,12909,21,Speedometer,Minor,In Progress,2025-02-20,
+1400,12913,21,UDS Diagnostics,Minor,In Progress,2025-02-08,
+1401,12916,21,Display,Minor,Closed,2025-02-17,2025-02-27
+1402,12922,21,UDS Diagnostics,Minor,Open,2025-02-22,
+1403,12928,21,Trip Meter,Minor,Closed,2025-02-17,2025-02-20
+1404,12931,21,Trip Meter,Major,Open,2025-02-12,
+1405,12937,21,Tachometer,Minor,Closed,2025-02-09,2025-02-17
+1406,12945,21,Odometer,Minor,Closed,2025-02-12,2025-02-28
+1407,12952,21,Trip Meter,Major,Open,2025-02-08,
+1408,12955,21,Speedometer,Minor,In Progress,2025-02-08,
+1409,12957,21,Fuel Gauge,Minor,Open,2025-02-19,
+1410,12960,21,Speedometer,Major,Closed,2025-02-21,2025-03-12
+1411,12963,21,Trip Meter,Major,Closed,2025-02-22,2025-03-01
+1412,12965,21,Tachometer,Critical,Closed,2025-02-21,2025-03-06
+1413,12966,21,UDS Diagnostics,Major,Open,2025-02-21,
+1414,12968,21,Speedometer,Major,Closed,2025-02-21,2025-03-07
+1415,12972,21,Warning Lamps,Minor,Open,2025-02-17,
+1416,12976,21,Speedometer,Major,Closed,2025-02-21,2025-02-24
+1417,12977,21,Display,Major,Closed,2025-02-18,2025-02-23
+1418,12980,21,Trip Meter,Major,Closed,2025-02-20,2025-03-10
+1419,12986,21,UDS Diagnostics,Minor,Closed,2025-02-21,2025-02-23
+1420,12987,21,Display,Major,Closed,2025-02-20,2025-02-24
+1421,12989,21,UDS Diagnostics,Major,Closed,2025-02-13,2025-02-16
+1422,13005,21,Fuel Gauge,Minor,Closed,2025-02-09,2025-02-17
+1423,13010,21,Trip Meter,Major,Closed,2025-02-16,2025-02-24
+1424,13023,21,Fuel Gauge,Minor,Open,2025-02-08,
+1425,13025,21,Display,Minor,Closed,2025-02-13,2025-03-01
+1426,13028,21,Speedometer,Minor,Closed,2025-02-09,2025-02-16
+1427,13032,21,Odometer,Major,Closed,2025-02-21,2025-03-06
+1428,13033,21,Tachometer,Minor,In Progress,2025-02-22,
+1429,13037,21,Display,Major,Closed,2025-02-17,2025-03-02
+1430,13039,21,Odometer,Minor,Closed,2025-02-20,2025-03-06
+1431,13040,21,Warning Lamps,Critical,Closed,2025-02-18,2025-03-10
+1432,13045,21,Speedometer,Minor,In Progress,2025-02-22,
+1433,13049,21,Tachometer,Minor,Closed,2025-02-11,2025-02-13
+1434,13050,21,Speedometer,Minor,Closed,2025-02-11,2025-02-28
+1435,13053,21,Display,Minor,Closed,2025-02-11,2025-02-23
+1436,13054,21,Display,Minor,In Progress,2025-02-14,
+1437,13057,21,Speedometer,Minor,Closed,2025-02-22,2025-03-14
+1438,13068,21,Trip Meter,Minor,Closed,2025-02-13,2025-02-22
+1439,13076,21,Speedometer,Minor,Closed,2025-02-08,2025-02-22
+1440,13077,21,CAN Communication,Minor,Closed,2025-02-10,2025-02-18
+1441,13085,21,Tachometer,Minor,Closed,2025-02-22,2025-02-27
+1442,13093,21,Fuel Gauge,Major,Closed,2025-02-14,2025-02-20
+1443,13094,21,Bluetooth,Minor,Closed,2025-02-19,2025-03-02
+1444,13099,21,Tachometer,Major,Closed,2025-02-18,2025-03-10
+1445,13103,21,Odometer,Minor,Closed,2025-02-11,2025-02-14
+1446,13108,21,Display,Critical,Closed,2025-02-17,2025-02-22
+1447,13110,21,UDS Diagnostics,Major,Closed,2025-02-20,2025-03-07
+1448,13111,21,Fuel Gauge,Minor,Open,2025-02-18,
+1449,13113,21,Display,Major,Open,2025-02-21,
+1450,13119,21,UDS Diagnostics,Minor,Closed,2025-02-12,2025-02-21
+1451,13127,22,Display,Critical,Closed,2025-04-05,2025-04-10
+1452,13129,22,Trip Meter,Major,Open,2025-04-03,
+1453,13130,22,UDS Diagnostics,Minor,Closed,2025-04-04,2025-04-23
+1454,13131,22,Fuel Gauge,Minor,Closed,2025-04-15,2025-05-02
+1455,13134,22,Display,Major,Open,2025-04-04,
+1456,13139,22,Bluetooth,Critical,Open,2025-04-12,
+1457,13142,22,Warning Lamps,Major,Open,2025-04-09,
+1458,13144,22,Tachometer,Critical,Closed,2025-04-13,2025-04-30
+1459,13155,22,Bluetooth,Minor,Closed,2025-04-09,2025-04-16
+1460,13159,22,Display,Critical,Closed,2025-04-17,2025-04-24
+1461,13171,22,UDS Diagnostics,Minor,Open,2025-04-11,
+1462,13179,22,Display,Minor,Closed,2025-04-11,2025-04-21
+1463,13193,22,Fuel Gauge,Major,In Progress,2025-04-17,
+1464,13199,22,Bluetooth,Major,Closed,2025-04-17,2025-04-20
+1465,13208,22,CAN Communication,Minor,Open,2025-04-15,
+1466,13210,22,Bluetooth,Minor,In Progress,2025-04-11,
+1467,13212,22,Tachometer,Minor,Closed,2025-04-16,2025-05-03
+1468,13213,22,Display,Major,Open,2025-04-07,
+1469,13214,22,CAN Communication,Minor,In Progress,2025-04-09,
+1470,13221,22,UDS Diagnostics,Minor,Closed,2025-04-06,2025-04-14
+1471,13244,22,Warning Lamps,Minor,Closed,2025-04-08,2025-04-22
+1472,13250,22,Bluetooth,Major,Open,2025-04-14,
+1473,13260,22,Trip Meter,Major,Open,2025-04-14,
+1474,13305,22,Warning Lamps,Minor,Open,2025-04-15,
+1475,13311,22,Fuel Gauge,Minor,In Progress,2025-04-06,
+1476,13325,22,Fuel Gauge,Minor,Closed,2025-04-14,2025-05-01
+1477,13360,22,Speedometer,Minor,Closed,2025-04-09,2025-04-19
+1478,13369,22,Fuel Gauge,Minor,Open,2025-04-13,
+1479,13372,22,UDS Diagnostics,Major,Closed,2025-04-05,2025-04-24
+1480,13380,22,Fuel Gauge,Minor,In Progress,2025-04-16,
+1481,13410,22,Odometer,Minor,Closed,2025-04-06,2025-04-14
+1482,13428,22,Warning Lamps,Major,Closed,2025-04-06,2025-04-08
+1483,13443,22,Tachometer,Major,Closed,2025-04-16,2025-04-28
+1484,13450,22,Trip Meter,Major,Closed,2025-04-14,2025-04-29
+1485,13454,22,Bluetooth,Minor,Closed,2025-04-05,2025-04-11
+1486,13467,22,Display,Major,Open,2025-04-12,
+1487,13472,22,CAN Communication,Minor,Closed,2025-04-09,2025-04-12
+1488,13476,22,Odometer,Minor,Closed,2025-04-03,2025-04-10
+1489,13484,22,Display,Minor,In Progress,2025-04-04,
+1490,13494,22,Fuel Gauge,Minor,Closed,2025-04-07,2025-04-18
+1491,13507,22,CAN Communication,Minor,Open,2025-04-09,
+1492,13508,22,Tachometer,Critical,Closed,2025-04-04,2025-04-17
+1493,13509,22,CAN Communication,Major,Closed,2025-04-13,2025-04-26
+1494,13531,22,CAN Communication,Minor,Closed,2025-04-08,2025-04-16
+1495,13533,22,Bluetooth,Minor,Open,2025-04-03,
+1496,13541,22,Display,Major,Open,2025-04-08,
+1497,13542,22,CAN Communication,Major,Closed,2025-04-05,2025-04-07
+1498,13556,22,CAN Communication,Minor,Open,2025-04-12,
+1499,13569,22,CAN Communication,Critical,Closed,2025-04-06,2025-04-08
+1500,13572,22,Fuel Gauge,Minor,In Progress,2025-04-12,
+1501,13579,22,Tachometer,Minor,Open,2025-04-07,
+1502,13583,22,Display,Minor,Closed,2025-04-05,2025-04-14
+1503,13593,22,Bluetooth,Major,In Progress,2025-04-03,
+1504,13594,22,UDS Diagnostics,Major,Closed,2025-04-16,2025-04-26
+1505,13596,22,UDS Diagnostics,Major,Closed,2025-04-10,2025-04-16
+1506,13599,22,UDS Diagnostics,Major,Closed,2025-04-07,2025-04-24
+1507,13608,22,Odometer,Critical,Closed,2025-04-10,2025-04-17
+1508,13623,22,Fuel Gauge,Minor,Open,2025-04-08,
+1509,13627,22,Speedometer,Minor,Open,2025-04-09,
+1510,13645,22,Tachometer,Minor,Closed,2025-04-04,2025-04-16
+1511,13652,22,CAN Communication,Minor,Closed,2025-04-15,2025-04-16
+1512,13662,22,Trip Meter,Minor,Closed,2025-04-13,2025-04-28
+1513,13678,22,Fuel Gauge,Minor,Closed,2025-04-14,2025-04-28
+1514,13687,22,CAN Communication,Major,Open,2025-04-09,
+1515,13699,22,Speedometer,Minor,Closed,2025-04-13,2025-04-25
+1516,13701,22,CAN Communication,Minor,Closed,2025-04-15,2025-04-18
+1517,13708,22,Tachometer,Minor,Closed,2025-04-04,2025-04-22
+1518,13711,22,Tachometer,Major,Open,2025-04-13,
+1519,13723,22,Fuel Gauge,Minor,In Progress,2025-04-09,
+1520,13725,22,Trip Meter,Major,In Progress,2025-04-15,
+1521,13726,22,Tachometer,Critical,In Progress,2025-04-04,
+1522,13737,22,Bluetooth,Minor,Closed,2025-04-11,2025-04-28
+1523,13738,22,Warning Lamps,Major,Closed,2025-04-15,2025-04-25
+1524,13755,22,Tachometer,Major,In Progress,2025-04-15,
+1525,13762,23,Trip Meter,Critical,Open,2025-06-19,
+1526,13789,23,Bluetooth,Minor,Closed,2025-06-07,2025-06-17
+1527,13801,23,CAN Communication,Minor,Closed,2025-06-18,2025-07-08
+1528,13802,23,Display,Major,Closed,2025-06-19,2025-06-27
+1529,13806,23,Tachometer,Major,Closed,2025-06-21,2025-06-30
+1530,13816,23,Odometer,Minor,Open,2025-06-18,
+1531,13819,23,Tachometer,Major,Closed,2025-06-09,2025-06-21
+1532,13820,23,Speedometer,Major,Closed,2025-06-19,2025-07-05
+1533,13869,23,CAN Communication,Major,Closed,2025-06-21,2025-06-25
+1534,13880,23,Bluetooth,Major,In Progress,2025-06-18,
+1535,13888,23,Tachometer,Minor,Closed,2025-06-18,2025-07-03
+1536,13892,23,Warning Lamps,Minor,In Progress,2025-06-17,
+1537,13896,23,Warning Lamps,Major,Closed,2025-06-09,2025-06-12
+1538,13900,23,Warning Lamps,Major,Closed,2025-06-10,2025-06-18
+1539,13913,23,CAN Communication,Major,Closed,2025-06-12,2025-06-29
+1540,13920,23,Speedometer,Minor,Open,2025-06-20,
+1541,13922,23,Bluetooth,Major,In Progress,2025-06-16,
+1542,13924,23,Display,Minor,Closed,2025-06-11,2025-07-01
+1543,13925,23,UDS Diagnostics,Major,Closed,2025-06-14,2025-06-27
+1544,13931,23,Warning Lamps,Critical,Closed,2025-06-10,2025-06-28
+1545,13945,23,Odometer,Minor,Closed,2025-06-08,2025-06-19
+1546,13959,23,Tachometer,Critical,Closed,2025-06-07,2025-06-20
+1547,13961,23,Speedometer,Major,Closed,2025-06-10,2025-06-30
+1548,13969,23,Display,Minor,Closed,2025-06-13,2025-06-21
+1549,13983,23,Speedometer,Minor,Closed,2025-06-13,2025-06-27
+1550,13991,23,Bluetooth,Major,Closed,2025-06-18,2025-06-29
+1551,14011,23,Warning Lamps,Minor,Closed,2025-06-17,2025-06-23
+1552,14016,23,Fuel Gauge,Major,Closed,2025-06-12,2025-06-29
+1553,14044,23,Warning Lamps,Major,Closed,2025-06-07,2025-06-09
+1554,14047,23,Fuel Gauge,Major,Closed,2025-06-18,2025-07-02
+1555,14057,23,CAN Communication,Critical,Closed,2025-06-12,2025-06-23
+1556,14058,23,Fuel Gauge,Minor,Closed,2025-06-18,2025-07-07
+1557,14076,23,Odometer,Major,Closed,2025-06-16,2025-06-30
+1558,14077,23,Trip Meter,Critical,Open,2025-06-20,
+1559,14088,23,Odometer,Major,Closed,2025-06-08,2025-06-21
+1560,14100,23,UDS Diagnostics,Minor,Closed,2025-06-18,2025-07-04
+1561,14101,23,Display,Major,In Progress,2025-06-14,
+1562,14111,23,Bluetooth,Major,Closed,2025-06-13,2025-06-29
+1563,14136,23,CAN Communication,Major,In Progress,2025-06-10,
+1564,14143,23,Warning Lamps,Major,Closed,2025-06-08,2025-06-19
+1565,14146,23,Display,Minor,Closed,2025-06-10,2025-06-20
+1566,14149,23,UDS Diagnostics,Major,Open,2025-06-17,
+1567,14153,23,Speedometer,Minor,Closed,2025-06-21,2025-07-11
+1568,14159,23,Tachometer,Minor,Closed,2025-06-08,2025-06-11
+1569,14177,23,Tachometer,Minor,In Progress,2025-06-18,
+1570,14185,23,Bluetooth,Major,Closed,2025-06-07,2025-06-08
+1571,14188,23,CAN Communication,Minor,Open,2025-06-12,
+1572,14201,23,Tachometer,Critical,Closed,2025-06-21,2025-07-09
+1573,14221,23,Display,Major,Closed,2025-06-09,2025-06-24
+1574,14234,23,Bluetooth,Major,In Progress,2025-06-18,
+1575,14240,23,UDS Diagnostics,Major,Open,2025-06-11,
+1576,14257,23,Trip Meter,Minor,Closed,2025-06-15,2025-06-27
+1577,14267,23,Tachometer,Major,Closed,2025-06-16,2025-06-27
+1578,14273,23,Display,Minor,In Progress,2025-06-12,
+1579,14289,23,Fuel Gauge,Major,Closed,2025-06-20,2025-07-09
+1580,14315,23,Warning Lamps,Major,Closed,2025-06-08,2025-06-18
+1581,14318,23,Warning Lamps,Major,Closed,2025-06-11,2025-06-21
+1582,14331,23,Tachometer,Minor,Closed,2025-06-20,2025-06-27
+1583,14341,23,Fuel Gauge,Major,Closed,2025-06-15,2025-06-26
+1584,14358,23,Odometer,Major,Closed,2025-06-20,2025-07-10
+1585,14367,23,CAN Communication,Major,Closed,2025-06-20,2025-06-22
+1586,14368,23,Odometer,Major,Closed,2025-06-08,2025-06-27
+1587,14373,23,Speedometer,Critical,Closed,2025-06-19,2025-07-05
+1588,14374,23,Display,Minor,Closed,2025-06-13,2025-06-14
+1589,14378,23,UDS Diagnostics,Minor,Closed,2025-06-12,2025-06-21
+1590,14380,23,Bluetooth,Minor,Closed,2025-06-17,2025-06-25
+1591,14392,23,Fuel Gauge,Minor,Closed,2025-06-14,2025-06-27
+1592,14401,23,Speedometer,Minor,Closed,2025-06-18,2025-06-20
+1593,14402,23,Bluetooth,Major,Closed,2025-06-21,2025-07-05
+1594,14410,23,Warning Lamps,Minor,In Progress,2025-06-11,
+1595,14416,23,Trip Meter,Major,Closed,2025-06-20,2025-07-03
+1596,14420,23,Speedometer,Minor,Closed,2025-06-20,2025-07-03
+1597,14422,23,Fuel Gauge,Minor,Closed,2025-06-08,2025-06-15
+1598,14476,24,Speedometer,Critical,Closed,2025-08-16,2025-08-26
+1599,14488,24,Bluetooth,Major,Open,2025-08-17,
+1600,14525,24,Fuel Gauge,Minor,Open,2025-08-16,
+1601,14539,24,Bluetooth,Major,Closed,2025-08-20,2025-08-26
+1602,14596,24,Bluetooth,Minor,Open,2025-08-21,
+1603,14599,24,Tachometer,Critical,In Progress,2025-08-24,
+1604,14836,24,Warning Lamps,Minor,Closed,2025-08-29,2025-09-14
+1605,14843,24,Bluetooth,Minor,Open,2025-08-16,
+1606,14894,24,Warning Lamps,Major,In Progress,2025-08-28,
+1607,14895,24,Odometer,Major,Closed,2025-08-25,2025-09-11
+1608,14924,24,CAN Communication,Major,Closed,2025-08-20,2025-09-02
+1609,14929,24,Fuel Gauge,Major,Open,2025-08-21,
+1610,14947,24,Bluetooth,Major,Open,2025-08-25,
+1611,14962,24,Warning Lamps,Major,Closed,2025-08-23,2025-09-07
+1612,15086,25,Speedometer,Minor,In Progress,2025-01-28,
+1613,15088,25,Tachometer,Critical,In Progress,2025-02-01,
+1614,15090,25,CAN Communication,Minor,Closed,2025-01-28,2025-02-01
+1615,15094,25,Display,Minor,Closed,2025-01-24,2025-01-30
+1616,15101,25,Tachometer,Major,Closed,2025-02-05,2025-02-14
+1617,15104,25,Warning Lamps,Minor,Closed,2025-02-05,2025-02-07
+1618,15112,25,Tachometer,Major,Open,2025-01-29,
+1619,15113,25,UDS Diagnostics,Major,Closed,2025-02-01,2025-02-08
+1620,15118,25,Display,Major,In Progress,2025-01-23,
+1621,15119,25,Warning Lamps,Major,Closed,2025-01-24,2025-02-02
+1622,15120,25,Fuel Gauge,Critical,Closed,2025-01-22,2025-01-29
+1623,15121,25,Odometer,Minor,Closed,2025-02-01,2025-02-18
+1624,15126,25,Speedometer,Major,Closed,2025-01-26,2025-02-14
+1625,15129,25,UDS Diagnostics,Minor,Closed,2025-01-27,2025-02-09
+1626,15138,25,Bluetooth,Minor,Closed,2025-01-30,2025-02-01
+1627,15145,25,Bluetooth,Minor,Closed,2025-01-29,2025-02-18
+1628,15154,25,Speedometer,Minor,Open,2025-01-31,
+1629,15155,25,Tachometer,Minor,Open,2025-01-22,
+1630,15162,25,Speedometer,Major,Closed,2025-01-29,2025-02-03
+1631,15163,25,Fuel Gauge,Minor,In Progress,2025-02-04,
+1632,15171,25,Warning Lamps,Major,In Progress,2025-01-30,
+1633,15174,25,Trip Meter,Minor,Closed,2025-01-23,2025-01-30
+1634,15178,25,Warning Lamps,Critical,Closed,2025-01-23,2025-02-08
+1635,15181,25,Bluetooth,Minor,In Progress,2025-02-04,
+1636,15187,25,Trip Meter,Major,Open,2025-02-03,
+1637,15193,25,Speedometer,Minor,Closed,2025-02-03,2025-02-18
+1638,15194,25,Bluetooth,Minor,Open,2025-01-26,
+1639,15199,25,Display,Minor,Closed,2025-02-02,2025-02-18
+1640,15206,25,Fuel Gauge,Major,Closed,2025-01-28,2025-02-11
+1641,15213,25,Tachometer,Minor,Closed,2025-02-04,2025-02-17
+1642,15214,25,Tachometer,Major,Closed,2025-02-02,2025-02-05
+1643,15226,25,Bluetooth,Major,Open,2025-01-25,
+1644,15232,25,CAN Communication,Major,Closed,2025-02-04,2025-02-14
+1645,15236,25,Tachometer,Critical,Open,2025-01-23,
+1646,15241,25,Odometer,Critical,Closed,2025-01-28,2025-02-01
+1647,15246,25,Bluetooth,Minor,Closed,2025-01-25,2025-01-29
+1648,15250,25,CAN Communication,Minor,Closed,2025-01-23,2025-02-02
+1649,15251,25,Trip Meter,Major,Closed,2025-01-28,2025-02-13
+1650,15252,25,CAN Communication,Major,Closed,2025-01-25,2025-01-30
+1651,15253,25,Display,Major,Open,2025-01-23,
+1652,15256,25,Trip Meter,Minor,Closed,2025-01-31,2025-02-16
+1653,15257,25,UDS Diagnostics,Minor,Closed,2025-02-05,2025-02-13
+1654,15258,25,Speedometer,Minor,Closed,2025-02-03,2025-02-20
+1655,15266,25,CAN Communication,Minor,Closed,2025-02-04,2025-02-17
+1656,15269,25,UDS Diagnostics,Critical,Closed,2025-01-25,2025-02-03
+1657,15272,25,UDS Diagnostics,Critical,In Progress,2025-01-26,
+1658,15274,25,CAN Communication,Minor,Closed,2025-01-28,2025-02-15
+1659,15289,25,Display,Major,Closed,2025-01-22,2025-02-01
+1660,15291,25,Display,Minor,Closed,2025-02-03,2025-02-12
+1661,15298,25,Fuel Gauge,Major,Closed,2025-02-01,2025-02-13
+1662,15303,25,Fuel Gauge,Minor,In Progress,2025-02-04,
+1663,15310,25,Display,Minor,Closed,2025-01-23,2025-02-03
+1664,15319,25,Fuel Gauge,Minor,Closed,2025-01-28,2025-02-12
+1665,15321,25,Trip Meter,Major,Closed,2025-01-24,2025-02-05
+1666,15332,25,Display,Minor,Closed,2025-01-26,2025-02-13
+1667,15337,25,Warning Lamps,Minor,Closed,2025-02-02,2025-02-20
+1668,15339,25,UDS Diagnostics,Minor,Closed,2025-02-01,2025-02-02
+1669,15347,25,Speedometer,Minor,Closed,2025-02-01,2025-02-18
+1670,15353,25,Warning Lamps,Minor,Closed,2025-02-03,2025-02-19
+1671,15354,25,Trip Meter,Minor,Closed,2025-01-27,2025-02-09
+1672,15363,25,Display,Major,In Progress,2025-02-03,
+1673,15364,25,UDS Diagnostics,Major,Closed,2025-01-23,2025-01-30
+1674,15365,25,Fuel Gauge,Minor,In Progress,2025-02-01,
+1675,15369,25,Bluetooth,Major,Closed,2025-01-22,2025-01-27
+1676,15385,25,Tachometer,Major,Closed,2025-01-23,2025-01-29
+1677,15390,25,Fuel Gauge,Critical,Closed,2025-02-03,2025-02-07
+1678,15396,25,Bluetooth,Major,Open,2025-01-23,
+1679,15407,25,Bluetooth,Major,Closed,2025-01-30,2025-02-13
+1680,15408,25,CAN Communication,Minor,Closed,2025-01-24,2025-01-28
+1681,15411,25,Warning Lamps,Minor,Open,2025-01-23,
+1682,15412,25,Odometer,Major,Closed,2025-02-03,2025-02-10
+1683,15430,25,Warning Lamps,Minor,Closed,2025-01-31,2025-02-20
+1684,15432,25,Warning Lamps,Minor,Closed,2025-02-02,2025-02-07
+1685,15433,25,Trip Meter,Minor,Closed,2025-02-05,2025-02-15
+1686,15438,25,Trip Meter,Major,In Progress,2025-01-22,
+1687,15440,25,Odometer,Major,Closed,2025-01-30,2025-02-07
+1688,15448,25,Warning Lamps,Minor,Closed,2025-02-04,2025-02-16
+1689,15451,25,Fuel Gauge,Major,Closed,2025-01-30,2025-02-16
+1690,15456,25,Display,Major,Closed,2025-01-28,2025-01-31
+1691,15459,25,Display,Major,Closed,2025-01-29,2025-02-09
+1692,15463,25,Fuel Gauge,Major,Open,2025-02-01,
+1693,15465,25,UDS Diagnostics,Major,Open,2025-02-01,
+1694,15466,25,Trip Meter,Major,In Progress,2025-02-02,
+1695,15467,25,Fuel Gauge,Minor,Closed,2025-02-03,2025-02-12
+1696,15477,25,Warning Lamps,Major,Closed,2025-02-05,2025-02-18
+1697,15482,25,CAN Communication,Major,Closed,2025-02-02,2025-02-13
+1698,15484,25,Speedometer,Major,Closed,2025-01-25,2025-02-06
+1699,15491,25,Trip Meter,Critical,Open,2025-02-05,
+1700,15500,25,Odometer,Major,Closed,2025-01-27,2025-02-01
+1701,15505,25,Warning Lamps,Major,Closed,2025-02-05,2025-02-10
+1702,15506,25,Fuel Gauge,Major,In Progress,2025-01-31,
+1703,15522,25,Display,Minor,Open,2025-01-30,
+1704,15527,25,CAN Communication,Major,Closed,2025-01-31,2025-02-18
+1705,15529,25,Tachometer,Minor,Closed,2025-01-30,2025-02-16
+1706,15530,25,Odometer,Major,Closed,2025-01-24,2025-02-04
+1707,15536,25,Tachometer,Minor,Closed,2025-01-26,2025-02-05
+1708,15538,25,Odometer,Major,Closed,2025-02-01,2025-02-04
+1709,15540,25,Tachometer,Major,Closed,2025-02-01,2025-02-21
+1710,15542,25,CAN Communication,Major,In Progress,2025-01-27,
+1711,15550,25,Bluetooth,Critical,In Progress,2025-02-02,
+1712,15558,25,CAN Communication,Minor,In Progress,2025-01-31,
+1713,15559,25,Display,Major,Closed,2025-01-30,2025-02-13
+1714,15560,25,Trip Meter,Minor,Closed,2025-01-25,2025-02-10
+1715,15561,25,Display,Minor,Closed,2025-02-05,2025-02-20
+1716,15568,25,UDS Diagnostics,Minor,Closed,2025-01-23,2025-02-05
+1717,15571,25,Warning Lamps,Minor,Open,2025-01-27,
+1718,15575,25,Warning Lamps,Minor,Closed,2025-01-30,2025-02-19
+1719,15579,25,Warning Lamps,Minor,Closed,2025-01-24,2025-02-13
+1720,15581,25,Odometer,Minor,Closed,2025-01-29,2025-02-01
+1721,15595,25,Speedometer,Major,In Progress,2025-02-04,
+1722,15596,25,CAN Communication,Minor,Closed,2025-01-28,2025-02-10
+1723,15603,25,UDS Diagnostics,Major,Closed,2025-01-29,2025-02-09
+1724,15606,25,Display,Major,Open,2025-01-30,
+1725,15608,25,Bluetooth,Minor,Closed,2025-01-30,2025-02-10
+1726,15610,25,Bluetooth,Major,Closed,2025-02-05,2025-02-21
+1727,15617,25,Bluetooth,Major,In Progress,2025-01-24,
+1728,15622,25,Odometer,Major,Closed,2025-01-23,2025-02-01
+1729,15624,25,Fuel Gauge,Minor,Closed,2025-02-02,2025-02-17
+1730,15630,25,Warning Lamps,Major,In Progress,2025-02-04,
+1731,15641,25,Display,Major,Open,2025-02-02,
+1732,15653,25,UDS Diagnostics,Minor,Closed,2025-01-28,2025-02-08
+1733,15654,25,CAN Communication,Major,Closed,2025-01-23,2025-02-09
+1734,15668,25,Odometer,Critical,Closed,2025-01-29,2025-01-31
+1735,15670,25,Display,Major,Closed,2025-02-01,2025-02-21
+1736,15671,25,CAN Communication,Minor,Closed,2025-01-23,2025-01-26
+1737,15672,25,CAN Communication,Major,Closed,2025-02-01,2025-02-21
+1738,15673,25,UDS Diagnostics,Major,Closed,2025-01-29,2025-02-14
+1739,15686,25,Bluetooth,Major,In Progress,2025-01-29,
+1740,15695,25,Speedometer,Minor,Closed,2025-01-31,2025-02-08
+1741,15696,25,Speedometer,Major,Closed,2025-01-29,2025-02-09
+1742,15702,25,Display,Minor,Closed,2025-02-05,2025-02-13
+1743,15705,25,UDS Diagnostics,Major,Closed,2025-02-05,2025-02-09
+1744,15707,25,CAN Communication,Major,Closed,2025-01-28,2025-02-17
+1745,15711,25,Odometer,Major,Closed,2025-01-25,2025-01-28
+1746,15714,25,Warning Lamps,Major,Closed,2025-01-25,2025-02-11
+1747,15725,25,Fuel Gauge,Major,Closed,2025-02-01,2025-02-06
+1748,15727,25,Warning Lamps,Minor,Closed,2025-01-29,2025-02-08
+1749,15733,25,CAN Communication,Minor,Closed,2025-01-27,2025-01-29
+1750,15740,25,CAN Communication,Critical,Closed,2025-02-05,2025-02-22
+1751,15743,25,Bluetooth,Minor,Closed,2025-01-27,2025-01-29
+1752,15744,25,CAN Communication,Minor,Closed,2025-02-01,2025-02-09
+1753,15749,25,Trip Meter,Minor,Closed,2025-01-29,2025-01-31
+1754,15750,25,Fuel Gauge,Minor,Open,2025-01-22,
+1755,15765,26,Speedometer,Major,In Progress,2025-02-23,
+1756,15787,26,Warning Lamps,Minor,In Progress,2025-03-05,
+1757,15788,26,Bluetooth,Major,Closed,2025-03-08,2025-03-11
+1758,15789,26,Warning Lamps,Major,Open,2025-02-24,
+1759,15825,26,Display,Major,Closed,2025-03-09,2025-03-27
+1760,15836,26,Bluetooth,Major,Closed,2025-03-05,2025-03-11
+1761,15852,26,Odometer,Minor,Closed,2025-02-25,2025-03-03
+1762,15854,26,Display,Minor,Closed,2025-03-04,2025-03-15
+1763,15856,26,Odometer,Major,In Progress,2025-03-06,
+1764,15863,26,Warning Lamps,Minor,Closed,2025-02-27,2025-02-28
+1765,15886,26,Tachometer,Major,In Progress,2025-03-04,
+1766,15889,26,Tachometer,Critical,In Progress,2025-02-25,
+1767,15899,26,Warning Lamps,Major,Closed,2025-02-25,2025-03-05
+1768,15903,26,Trip Meter,Minor,In Progress,2025-02-27,
+1769,15912,26,Warning Lamps,Minor,Closed,2025-02-27,2025-03-02
+1770,15913,26,Fuel Gauge,Major,Closed,2025-03-07,2025-03-13
+1771,15919,26,Warning Lamps,Major,Closed,2025-03-05,2025-03-24
+1772,15934,26,Trip Meter,Major,Closed,2025-02-27,2025-03-03
+1773,15951,26,UDS Diagnostics,Minor,In Progress,2025-03-05,
+1774,15952,26,Bluetooth,Minor,In Progress,2025-03-01,
+1775,15956,26,CAN Communication,Minor,Closed,2025-03-02,2025-03-17
+1776,15957,26,CAN Communication,Major,In Progress,2025-02-26,
+1777,15974,26,Fuel Gauge,Minor,Closed,2025-03-04,2025-03-16
+1778,15992,26,Bluetooth,Major,Closed,2025-02-23,2025-02-25
+1779,16001,26,CAN Communication,Major,In Progress,2025-03-06,
+1780,16025,26,Tachometer,Minor,In Progress,2025-03-08,
+1781,16036,26,Warning Lamps,Minor,In Progress,2025-03-02,
+1782,16039,26,Fuel Gauge,Major,Closed,2025-03-09,2025-03-27
+1783,16050,26,Odometer,Minor,Closed,2025-03-01,2025-03-13
+1784,16055,26,Bluetooth,Major,Open,2025-02-25,
+1785,16088,26,Warning Lamps,Major,Closed,2025-03-01,2025-03-11
+1786,16098,26,Speedometer,Minor,Closed,2025-02-23,2025-03-11
+1787,16108,26,Display,Major,In Progress,2025-03-01,
+1788,16112,26,Display,Minor,Closed,2025-03-03,2025-03-23
+1789,16118,26,Fuel Gauge,Major,Closed,2025-03-06,2025-03-07
+1790,16132,26,Tachometer,Critical,Closed,2025-02-28,2025-03-04
+1791,16137,26,Fuel Gauge,Major,In Progress,2025-03-01,
+1792,16152,26,Odometer,Minor,Closed,2025-02-23,2025-03-13
+1793,16160,26,Speedometer,Major,In Progress,2025-03-09,
+1794,16165,26,Speedometer,Minor,Closed,2025-03-01,2025-03-11
+1795,16176,26,Warning Lamps,Minor,Closed,2025-03-09,2025-03-14
+1796,16191,26,CAN Communication,Critical,Closed,2025-03-09,2025-03-13
+1797,16200,26,Speedometer,Minor,Closed,2025-03-08,2025-03-14
+1798,16213,26,Fuel Gauge,Minor,Closed,2025-03-06,2025-03-10
+1799,16220,26,Warning Lamps,Major,Closed,2025-03-02,2025-03-05
+1800,16256,26,Warning Lamps,Minor,In Progress,2025-03-05,
+1801,16269,26,Trip Meter,Minor,Closed,2025-03-07,2025-03-11
+1802,16310,26,Bluetooth,Major,Closed,2025-02-25,2025-02-27
+1803,16322,26,Tachometer,Minor,Closed,2025-02-23,2025-03-05
+1804,16331,27,Display,Minor,Closed,2025-04-14,2025-05-03
+1805,16333,27,UDS Diagnostics,Minor,Closed,2025-04-12,2025-04-21
+1806,16345,27,UDS Diagnostics,Critical,Closed,2025-04-12,2025-04-13
+1807,16391,27,UDS Diagnostics,Critical,Open,2025-04-21,
+1808,16397,27,CAN Communication,Minor,In Progress,2025-04-26,
+1809,16401,27,UDS Diagnostics,Critical,Open,2025-04-22,
+1810,16402,27,Bluetooth,Major,Closed,2025-04-20,2025-05-01
+1811,16408,27,Warning Lamps,Major,Closed,2025-04-18,2025-04-22
+1812,16411,27,Fuel Gauge,Minor,Closed,2025-04-12,2025-04-29
+1813,16432,27,Trip Meter,Minor,Open,2025-04-23,
+1814,16442,27,Trip Meter,Major,In Progress,2025-04-20,
+1815,16451,27,Speedometer,Minor,Open,2025-04-12,
+1816,16456,27,Display,Minor,Closed,2025-04-22,2025-04-30
+1817,16482,27,Tachometer,Major,In Progress,2025-04-26,
+1818,16483,27,Fuel Gauge,Major,In Progress,2025-04-25,
+1819,16491,27,Display,Minor,Closed,2025-04-23,2025-04-28
+1820,16493,27,UDS Diagnostics,Critical,Closed,2025-04-15,2025-04-17
+1821,16513,27,Bluetooth,Minor,Closed,2025-04-26,2025-05-08
+1822,16520,27,CAN Communication,Minor,Closed,2025-04-24,2025-05-03
+1823,16525,27,Trip Meter,Major,Closed,2025-04-12,2025-04-27
+1824,16539,27,Warning Lamps,Minor,Closed,2025-04-21,2025-05-07
+1825,16541,27,Display,Major,Closed,2025-04-18,2025-05-07
+1826,16554,27,Bluetooth,Minor,Closed,2025-04-12,2025-04-23
+1827,16564,27,UDS Diagnostics,Minor,Closed,2025-04-23,2025-05-02
+1828,16566,27,Fuel Gauge,Minor,Closed,2025-04-24,2025-05-06
+1829,16567,27,Bluetooth,Minor,Closed,2025-04-12,2025-04-21
+1830,16572,27,CAN Communication,Minor,Closed,2025-04-23,2025-04-28
+1831,16573,27,Tachometer,Major,Open,2025-04-21,
+1832,16576,27,Bluetooth,Major,Closed,2025-04-23,2025-05-06
+1833,16602,27,Fuel Gauge,Minor,Open,2025-04-17,
+1834,16608,27,CAN Communication,Minor,Closed,2025-04-21,2025-05-02
+1835,16614,27,UDS Diagnostics,Minor,Closed,2025-04-18,2025-04-19
+1836,16620,27,Speedometer,Critical,Closed,2025-04-24,2025-05-06
+1837,16621,27,Odometer,Major,Closed,2025-04-12,2025-05-01
+1838,16638,27,Odometer,Minor,Closed,2025-04-12,2025-04-17
+1839,16641,27,Warning Lamps,Minor,Open,2025-04-17,
+1840,16643,27,CAN Communication,Major,In Progress,2025-04-20,
+1841,16660,27,Odometer,Major,Closed,2025-04-16,2025-04-18
+1842,16683,27,CAN Communication,Critical,Closed,2025-04-15,2025-05-03
+1843,16691,27,Tachometer,Critical,Closed,2025-04-21,2025-04-23
+1844,16699,27,Display,Major,In Progress,2025-04-12,
+1845,16707,27,Bluetooth,Critical,Closed,2025-04-18,2025-05-08
+1846,16731,27,Warning Lamps,Minor,Closed,2025-04-17,2025-04-22
+1847,16732,27,UDS Diagnostics,Minor,In Progress,2025-04-20,
+1848,16733,27,UDS Diagnostics,Minor,Open,2025-04-18,
+1849,16743,27,Display,Minor,Closed,2025-04-26,2025-05-12
+1850,16754,27,Speedometer,Major,Open,2025-04-24,
+1851,16757,27,Fuel Gauge,Major,In Progress,2025-04-14,
+1852,16760,27,Tachometer,Minor,In Progress,2025-04-24,
+1853,16765,27,Trip Meter,Minor,Closed,2025-04-22,2025-04-29
+1854,16767,27,CAN Communication,Minor,Open,2025-04-26,
+1855,16773,27,Warning Lamps,Minor,Closed,2025-04-17,2025-05-02
+1856,16774,27,CAN Communication,Minor,Closed,2025-04-25,2025-05-06
+1857,16783,27,Warning Lamps,Major,Open,2025-04-14,
+1858,16787,27,UDS Diagnostics,Minor,Closed,2025-04-24,2025-05-03
+1859,16788,27,CAN Communication,Minor,Closed,2025-04-12,2025-05-01
+1860,16794,27,Bluetooth,Minor,Open,2025-04-22,
+1861,16803,27,UDS Diagnostics,Major,Closed,2025-04-19,2025-04-27
+1862,16817,27,Trip Meter,Major,Closed,2025-04-13,2025-04-15
+1863,16818,27,Fuel Gauge,Minor,Closed,2025-04-22,2025-05-05
+1864,16819,27,Display,Minor,Open,2025-04-25,
+1865,16825,27,CAN Communication,Major,Open,2025-04-24,
+1866,16852,27,Odometer,Minor,Open,2025-04-24,
+1867,16862,27,Odometer,Minor,Closed,2025-04-19,2025-04-25
+1868,16874,27,CAN Communication,Major,Open,2025-04-26,
+1869,16884,27,Trip Meter,Major,Closed,2025-04-14,2025-04-26
+1870,16887,27,UDS Diagnostics,Minor,In Progress,2025-04-12,
+1871,16888,27,Trip Meter,Major,In Progress,2025-04-21,
+1872,16893,27,Odometer,Critical,Open,2025-04-24,
+1873,16903,27,UDS Diagnostics,Major,Closed,2025-04-17,2025-05-05
+1874,16906,27,Warning Lamps,Critical,Open,2025-04-19,
+1875,16915,27,Warning Lamps,Major,Open,2025-04-18,
+1876,16923,27,CAN Communication,Major,Closed,2025-04-12,2025-04-28
+1877,16926,27,CAN Communication,Major,Closed,2025-04-14,2025-04-15
+1878,16932,27,Tachometer,Minor,Open,2025-04-22,
+1879,16933,27,UDS Diagnostics,Critical,Closed,2025-04-22,2025-05-07
+1880,16946,27,UDS Diagnostics,Minor,Closed,2025-04-13,2025-05-02
+1881,16951,27,Bluetooth,Minor,Closed,2025-04-21,2025-04-29
+1882,16955,27,Bluetooth,Major,Closed,2025-04-26,2025-05-02
+1883,16962,27,Trip Meter,Major,In Progress,2025-04-18,
+1884,16964,27,Warning Lamps,Minor,Closed,2025-04-19,2025-05-05
+1885,16969,27,Display,Major,Closed,2025-04-22,2025-05-09
+1886,16999,28,Display,Minor,Closed,2025-06-09,2025-06-23
+1887,17013,28,UDS Diagnostics,Major,Closed,2025-05-28,2025-05-30
+1888,17147,28,Speedometer,Minor,In Progress,2025-06-09,
+1889,17155,28,CAN Communication,Major,Closed,2025-05-27,2025-06-15
+1890,17159,28,Speedometer,Minor,Closed,2025-06-09,2025-06-17
+1891,17165,28,Speedometer,Minor,Closed,2025-06-09,2025-06-10
+1892,17181,28,Tachometer,Minor,Closed,2025-06-06,2025-06-14
+1893,17204,28,Display,Major,In Progress,2025-06-06,
+1894,17241,28,UDS Diagnostics,Major,Closed,2025-05-26,2025-06-07
+1895,17253,28,UDS Diagnostics,Minor,Closed,2025-06-03,2025-06-14
+1896,17256,28,Fuel Gauge,Minor,Closed,2025-06-05,2025-06-15
+1897,17267,28,Tachometer,Minor,Closed,2025-05-26,2025-05-31
+1898,17269,28,Fuel Gauge,Minor,Open,2025-05-29,
+1899,17290,28,Bluetooth,Major,Open,2025-06-03,
+1900,17336,28,Bluetooth,Critical,Open,2025-06-03,
+1901,17412,28,Trip Meter,Minor,Open,2025-06-08,
+1902,17425,28,Tachometer,Major,Closed,2025-05-31,2025-06-05
+1903,17540,28,Warning Lamps,Major,Closed,2025-05-27,2025-06-06
+1904,17543,28,Warning Lamps,Major,Open,2025-05-30,
+1905,17548,28,Trip Meter,Major,Closed,2025-06-01,2025-06-12
+1906,17626,28,Trip Meter,Minor,Open,2025-06-06,
+1907,17671,29,Warning Lamps,Major,Closed,2025-02-09,2025-02-26
+1908,17678,29,Trip Meter,Minor,In Progress,2025-02-09,
+1909,17680,29,CAN Communication,Minor,In Progress,2025-01-30,
+1910,17682,29,CAN Communication,Minor,Closed,2025-02-03,2025-02-21
+1911,17683,29,Warning Lamps,Minor,Closed,2025-01-29,2025-01-31
+1912,17686,29,Tachometer,Minor,Closed,2025-01-31,2025-02-15
+1913,17689,29,Bluetooth,Minor,Closed,2025-02-04,2025-02-16
+1914,17690,29,Display,Critical,Closed,2025-02-02,2025-02-17
+1915,17706,29,CAN Communication,Major,Closed,2025-01-29,2025-02-10
+1916,17711,29,CAN Communication,Minor,Closed,2025-02-07,2025-02-19
+1917,17717,29,Trip Meter,Minor,Closed,2025-01-28,2025-02-04
+1918,17718,29,Warning Lamps,Major,Open,2025-02-07,
+1919,17720,29,Warning Lamps,Major,Closed,2025-01-27,2025-02-05
+1920,17731,29,Warning Lamps,Minor,Closed,2025-01-27,2025-01-28
+1921,17732,29,Fuel Gauge,Minor,In Progress,2025-02-01,
+1922,17734,29,Tachometer,Critical,In Progress,2025-01-30,
+1923,17744,29,Bluetooth,Major,Closed,2025-02-07,2025-02-21
+1924,17752,29,Speedometer,Minor,Closed,2025-02-05,2025-02-20
+1925,17753,29,Speedometer,Minor,In Progress,2025-02-10,
+1926,17756,29,Warning Lamps,Minor,Open,2025-02-03,
+1927,17760,29,CAN Communication,Minor,Closed,2025-01-28,2025-02-03
+1928,17770,29,Bluetooth,Minor,Open,2025-02-02,
+1929,17773,29,Odometer,Major,Closed,2025-02-09,2025-02-10
+1930,17779,29,CAN Communication,Major,Open,2025-01-30,
+1931,17781,29,CAN Communication,Major,Closed,2025-02-10,2025-02-25
+1932,17799,29,UDS Diagnostics,Major,Closed,2025-02-08,2025-02-26
+1933,17801,29,Warning Lamps,Minor,In Progress,2025-02-06,
+1934,17810,29,Warning Lamps,Major,Closed,2025-02-06,2025-02-12
+1935,17821,29,Fuel Gauge,Major,Closed,2025-01-27,2025-02-14
+1936,17830,29,Display,Major,Closed,2025-02-05,2025-02-11
+1937,17831,29,Warning Lamps,Major,Closed,2025-02-08,2025-02-26
+1938,17838,29,CAN Communication,Minor,In Progress,2025-02-02,
+1939,17843,29,Fuel Gauge,Major,Closed,2025-02-03,2025-02-05
+1940,17844,29,CAN Communication,Major,Open,2025-01-31,
+1941,17848,29,Display,Major,Open,2025-02-09,
+1942,17856,29,Warning Lamps,Minor,Closed,2025-02-04,2025-02-05
+1943,17858,29,Fuel Gauge,Major,Closed,2025-02-06,2025-02-22
+1944,17875,29,Warning Lamps,Major,Closed,2025-01-27,2025-01-28
+1945,17877,29,Odometer,Critical,In Progress,2025-02-04,
+1946,17878,29,Display,Minor,Open,2025-02-03,
+1947,17885,29,Display,Major,Closed,2025-02-10,2025-02-17
+1948,17887,29,Trip Meter,Minor,Closed,2025-02-10,2025-02-11
+1949,17894,29,Warning Lamps,Minor,Closed,2025-02-05,2025-02-18
+1950,17896,29,Warning Lamps,Major,Closed,2025-02-05,2025-02-16
+1951,17897,29,Display,Minor,Closed,2025-02-02,2025-02-03
+1952,17902,29,UDS Diagnostics,Minor,Open,2025-02-09,
+1953,17912,29,Tachometer,Minor,Closed,2025-01-29,2025-02-03
+1954,17917,29,Warning Lamps,Minor,Closed,2025-01-31,2025-02-01
+1955,17933,29,UDS Diagnostics,Major,Closed,2025-01-29,2025-02-14
+1956,17937,29,UDS Diagnostics,Major,Closed,2025-02-05,2025-02-08
+1957,17941,29,Warning Lamps,Minor,Closed,2025-02-04,2025-02-09
+1958,17945,29,CAN Communication,Critical,In Progress,2025-02-08,
+1959,17953,29,Display,Major,In Progress,2025-02-04,
+1960,17954,29,Tachometer,Minor,Closed,2025-01-28,2025-01-29
+1961,17955,29,Tachometer,Minor,Closed,2025-02-10,2025-02-14
+1962,17968,29,Fuel Gauge,Minor,Closed,2025-02-10,2025-02-19
+1963,17975,29,Warning Lamps,Minor,Open,2025-02-01,
+1964,17979,29,CAN Communication,Major,Closed,2025-01-30,2025-02-13
+1965,17980,29,Tachometer,Major,Closed,2025-02-07,2025-02-08
+1966,17987,29,Warning Lamps,Critical,Closed,2025-02-04,2025-02-23
+1967,17989,29,CAN Communication,Major,In Progress,2025-01-29,
+1968,17990,29,UDS Diagnostics,Minor,Closed,2025-01-31,2025-02-08
+1969,17991,29,Warning Lamps,Major,Open,2025-02-01,
+1970,17994,29,CAN Communication,Major,In Progress,2025-02-10,
+1971,17998,29,Warning Lamps,Minor,Closed,2025-02-09,2025-02-18
+1972,18001,29,Odometer,Major,In Progress,2025-02-09,
+1973,18007,29,Display,Major,In Progress,2025-01-31,
+1974,18009,29,Tachometer,Minor,Closed,2025-02-05,2025-02-13
+1975,18011,29,Trip Meter,Minor,Open,2025-02-04,
+1976,18012,29,Warning Lamps,Minor,Open,2025-02-04,
+1977,18021,29,Fuel Gauge,Minor,Open,2025-02-06,
+1978,18022,29,Display,Major,In Progress,2025-02-05,
+1979,18023,29,Bluetooth,Major,In Progress,2025-01-27,
+1980,18026,29,Fuel Gauge,Major,Open,2025-02-05,
+1981,18027,29,Display,Minor,Closed,2025-02-02,2025-02-14
+1982,18044,29,Warning Lamps,Major,Closed,2025-02-03,2025-02-23
+1983,18047,29,Display,Major,Open,2025-01-30,
+1984,18048,29,Speedometer,Minor,In Progress,2025-01-27,
+1985,18051,29,Fuel Gauge,Major,Open,2025-02-03,
+1986,18056,29,Display,Major,In Progress,2025-01-28,
+1987,18072,29,Warning Lamps,Minor,Open,2025-01-31,
+1988,18078,29,UDS Diagnostics,Major,Closed,2025-01-31,2025-02-11
+1989,18079,29,Bluetooth,Major,Closed,2025-02-02,2025-02-11
+1990,18085,29,Trip Meter,Major,In Progress,2025-01-30,
+1991,18091,29,Speedometer,Major,Closed,2025-01-31,2025-02-04
+1992,18104,29,Bluetooth,Minor,Closed,2025-02-04,2025-02-16
+1993,18118,29,Odometer,Critical,Open,2025-02-02,
+1994,18122,29,Tachometer,Minor,Closed,2025-02-08,2025-02-12
+1995,18123,29,Warning Lamps,Minor,Closed,2025-02-03,2025-02-13
+1996,18125,29,Fuel Gauge,Minor,Closed,2025-02-02,2025-02-12
+1997,18130,29,CAN Communication,Critical,Open,2025-02-03,
+1998,18136,29,Speedometer,Minor,Closed,2025-02-09,2025-02-22
+1999,18145,29,Tachometer,Major,Closed,2025-01-28,2025-02-02
+2000,18147,29,CAN Communication,Major,Closed,2025-02-04,2025-02-15
+2001,18169,29,UDS Diagnostics,Major,Closed,2025-02-03,2025-02-21
+2002,18183,29,Warning Lamps,Major,Closed,2025-02-09,2025-02-18
+2003,18187,29,Warning Lamps,Critical,Closed,2025-02-08,2025-02-20
+2004,18189,29,Tachometer,Minor,Closed,2025-02-10,2025-02-11
+2005,18199,29,Trip Meter,Major,Closed,2025-02-03,2025-02-22
+2006,18201,29,Warning Lamps,Minor,Closed,2025-01-27,2025-01-31
+2007,18202,29,Bluetooth,Major,Closed,2025-01-28,2025-02-12
+2008,18206,29,CAN Communication,Minor,Closed,2025-02-08,2025-02-20
+2009,18211,29,Warning Lamps,Minor,In Progress,2025-02-03,
+2010,18212,29,Trip Meter,Minor,Closed,2025-02-03,2025-02-10
+2011,18218,29,Warning Lamps,Major,Closed,2025-01-27,2025-02-09
+2012,18224,29,Warning Lamps,Minor,Closed,2025-02-09,2025-02-14
+2013,18232,29,Fuel Gauge,Minor,Closed,2025-02-09,2025-02-28
+2014,18235,29,UDS Diagnostics,Minor,Closed,2025-02-03,2025-02-10
+2015,18240,30,Trip Meter,Minor,Closed,2025-04-18,2025-05-08
+2016,18247,30,Trip Meter,Minor,Closed,2025-04-16,2025-04-28
+2017,18250,30,Warning Lamps,Minor,Open,2025-04-11,
+2018,18258,30,Warning Lamps,Major,Closed,2025-04-09,2025-04-10
+2019,18270,30,Trip Meter,Minor,Closed,2025-04-09,2025-04-24
+2020,18273,30,Fuel Gauge,Major,Closed,2025-04-19,2025-04-21
+2021,18278,30,CAN Communication,Major,Closed,2025-04-08,2025-04-28
+2022,18282,30,Bluetooth,Minor,Closed,2025-04-18,2025-04-25
+2023,18285,30,Display,Minor,Closed,2025-04-21,2025-04-27
+2024,18295,30,Odometer,Major,Closed,2025-04-14,2025-05-03
+2025,18314,30,Tachometer,Critical,Open,2025-04-19,
+2026,18357,30,Warning Lamps,Major,Closed,2025-04-15,2025-04-26
+2027,18365,30,Bluetooth,Major,Closed,2025-04-19,2025-04-20
+2028,18379,30,Trip Meter,Minor,Closed,2025-04-09,2025-04-25
+2029,18398,30,Bluetooth,Minor,Closed,2025-04-17,2025-05-02
+2030,18410,30,Bluetooth,Minor,Closed,2025-04-17,2025-04-23
+2031,18425,30,Speedometer,Major,Closed,2025-04-14,2025-05-01
+2032,18436,30,Fuel Gauge,Major,Closed,2025-04-17,2025-04-29
+2033,18443,30,Bluetooth,Major,Closed,2025-04-14,2025-04-25
+2034,18444,30,Odometer,Minor,Closed,2025-04-13,2025-04-22
+2035,18446,30,Warning Lamps,Major,Closed,2025-04-07,2025-04-23
+2036,18449,30,Odometer,Major,Closed,2025-04-10,2025-04-23
+2037,18459,30,Warning Lamps,Critical,Closed,2025-04-19,2025-05-03
+2038,18460,30,Trip Meter,Major,Closed,2025-04-11,2025-04-18
+2039,18487,30,Warning Lamps,Minor,In Progress,2025-04-11,
+2040,18501,30,UDS Diagnostics,Critical,Closed,2025-04-12,2025-04-28
+2041,18516,30,Tachometer,Minor,Closed,2025-04-17,2025-04-25
+2042,18519,30,Bluetooth,Major,Open,2025-04-13,
+2043,18526,30,Display,Minor,Closed,2025-04-17,2025-05-02
+2044,18533,30,Display,Major,Closed,2025-04-16,2025-05-02
+2045,18538,30,Display,Minor,Open,2025-04-15,
+2046,18541,30,UDS Diagnostics,Minor,Closed,2025-04-21,2025-04-23
+2047,18548,30,Odometer,Minor,Open,2025-04-21,
+2048,18557,30,Warning Lamps,Minor,Closed,2025-04-18,2025-04-20
+2049,18562,30,Display,Minor,Open,2025-04-15,
+2050,18569,30,CAN Communication,Minor,Closed,2025-04-14,2025-04-20
+2051,18570,30,CAN Communication,Minor,In Progress,2025-04-19,
+2052,18575,30,Warning Lamps,Major,In Progress,2025-04-20,
+2053,18581,30,Warning Lamps,Major,Open,2025-04-18,
+2054,18594,30,Warning Lamps,Major,Closed,2025-04-12,2025-04-21
+2055,18595,30,Odometer,Minor,Closed,2025-04-14,2025-04-24
+2056,18605,30,CAN Communication,Minor,Closed,2025-04-07,2025-04-08
+2057,18618,30,Odometer,Minor,In Progress,2025-04-20,
+2058,18621,30,Tachometer,Major,Open,2025-04-08,
+2059,18626,30,CAN Communication,Major,Closed,2025-04-13,2025-05-01
+2060,18629,30,Bluetooth,Minor,Closed,2025-04-13,2025-04-19
+2061,18633,30,Display,Major,Closed,2025-04-08,2025-04-12
+2062,18648,30,Display,Major,Closed,2025-04-20,2025-04-30
+2063,18662,30,Trip Meter,Minor,Closed,2025-04-15,2025-04-25
+2064,18663,30,UDS Diagnostics,Major,Closed,2025-04-17,2025-04-19
+2065,18681,30,Bluetooth,Minor,Closed,2025-04-13,2025-04-20
+2066,18687,30,Trip Meter,Major,Closed,2025-04-19,2025-05-03
+2067,18696,30,Fuel Gauge,Minor,Closed,2025-04-14,2025-04-26
+2068,18703,30,UDS Diagnostics,Minor,Open,2025-04-18,
+2069,18754,30,Speedometer,Minor,Closed,2025-04-21,2025-05-10
+2070,18800,30,Speedometer,Major,Closed,2025-04-14,2025-04-20
+2071,18802,30,Tachometer,Major,Closed,2025-04-12,2025-04-16
+2072,18803,30,Odometer,Major,Closed,2025-04-21,2025-05-05
+2073,18816,30,Odometer,Major,Open,2025-04-14,
+2074,18817,30,Display,Minor,Closed,2025-04-07,2025-04-25
+2075,18825,30,Trip Meter,Major,Closed,2025-04-10,2025-04-28
+2076,18828,30,Warning Lamps,Minor,In Progress,2025-04-10,
+2077,18839,31,CAN Communication,Major,Closed,2025-05-28,2025-06-03
+2078,18855,31,Odometer,Minor,Closed,2025-05-28,2025-06-01
+2079,18880,31,Bluetooth,Minor,Open,2025-05-28,
+2080,18895,31,CAN Communication,Major,Open,2025-05-28,
+2081,18902,31,Trip Meter,Major,Closed,2025-05-27,2025-05-29
+2082,18909,31,Fuel Gauge,Minor,Closed,2025-05-18,2025-05-21
+2083,18922,31,Speedometer,Minor,Open,2025-05-29,
+2084,18939,31,Trip Meter,Minor,Closed,2025-05-27,2025-05-29
+2085,18958,31,Bluetooth,Minor,Open,2025-05-20,
+2086,18962,31,Trip Meter,Minor,Closed,2025-05-26,2025-06-04
+2087,18968,31,Odometer,Minor,Closed,2025-05-22,2025-05-29
+2088,18983,31,Tachometer,Major,Closed,2025-05-22,2025-06-07
+2089,19001,31,CAN Communication,Major,Closed,2025-05-31,2025-06-05
+2090,19017,31,Warning Lamps,Major,Closed,2025-05-18,2025-05-25
+2091,19018,31,Tachometer,Critical,Open,2025-05-27,
+2092,19037,31,Fuel Gauge,Minor,Open,2025-05-29,
+2093,19039,31,Warning Lamps,Major,Open,2025-05-17,
+2094,19043,31,Bluetooth,Major,Closed,2025-05-17,2025-05-28
+2095,19065,31,Fuel Gauge,Major,In Progress,2025-05-19,
+2096,19078,31,Trip Meter,Major,Closed,2025-05-24,2025-06-04
+2097,19084,31,Trip Meter,Major,Closed,2025-05-28,2025-06-02
+2098,19086,31,Tachometer,Minor,In Progress,2025-05-17,
+2099,19102,31,Trip Meter,Minor,Closed,2025-05-22,2025-06-01
+2100,19117,31,UDS Diagnostics,Minor,Closed,2025-05-17,2025-06-03
+2101,19121,31,Warning Lamps,Major,Closed,2025-05-25,2025-06-04
+2102,19124,31,CAN Communication,Major,Closed,2025-05-30,2025-06-01
+2103,19137,31,UDS Diagnostics,Minor,Closed,2025-05-18,2025-06-05
+2104,19141,31,Bluetooth,Major,Closed,2025-05-20,2025-06-02
+2105,19157,31,Trip Meter,Major,Closed,2025-05-20,2025-06-01
+2106,19161,31,Display,Major,Closed,2025-05-23,2025-05-25
+2107,19162,31,Bluetooth,Critical,Closed,2025-05-18,2025-05-23
+2108,19215,31,Display,Major,Closed,2025-05-31,2025-06-03
+2109,19232,31,Speedometer,Minor,Closed,2025-05-22,2025-05-31
+2110,19238,31,Tachometer,Minor,Open,2025-05-25,
+2111,19248,31,Speedometer,Minor,Closed,2025-05-23,2025-06-10
+2112,19253,31,Display,Minor,Closed,2025-05-31,2025-06-12
+2113,19268,31,Warning Lamps,Major,Open,2025-05-18,
+2114,19294,31,Trip Meter,Major,Closed,2025-05-17,2025-06-06
+2115,19302,31,Warning Lamps,Minor,Closed,2025-05-21,2025-05-25
+2116,19319,31,UDS Diagnostics,Minor,In Progress,2025-05-30,
+2117,19340,31,UDS Diagnostics,Major,Closed,2025-05-27,2025-06-04
+2118,19348,31,Fuel Gauge,Major,Closed,2025-05-21,2025-05-30
+2119,19354,31,Bluetooth,Minor,Closed,2025-05-21,2025-06-01
+2120,19360,31,UDS Diagnostics,Major,Closed,2025-05-21,2025-05-22
+2121,19362,31,Bluetooth,Minor,In Progress,2025-05-21,
+2122,19382,31,CAN Communication,Minor,Closed,2025-05-25,2025-06-12
+2123,19393,31,UDS Diagnostics,Minor,Open,2025-05-22,
+2124,19410,31,CAN Communication,Critical,Closed,2025-05-30,2025-06-14
+2125,19431,31,CAN Communication,Critical,Closed,2025-05-18,2025-05-19
+2126,19448,31,Warning Lamps,Major,In Progress,2025-05-30,
+2127,19453,31,Odometer,Major,Closed,2025-05-26,2025-06-05
+2128,19463,31,Trip Meter,Critical,In Progress,2025-05-24,
+2129,19466,31,Trip Meter,Critical,Closed,2025-05-22,2025-05-28
+2130,19470,31,Speedometer,Minor,Closed,2025-05-30,2025-06-07
+2131,19472,32,Display,Minor,Closed,2025-07-16,2025-07-27
+2132,19495,32,CAN Communication,Minor,Closed,2025-07-17,2025-07-26
+2133,19564,32,Tachometer,Major,Closed,2025-07-19,2025-08-07
+2134,19588,32,Trip Meter,Critical,Closed,2025-07-12,2025-07-27
+2135,19596,32,Bluetooth,Major,Closed,2025-07-09,2025-07-16
+2136,19625,32,Warning Lamps,Major,Closed,2025-07-14,2025-07-27
+2137,19660,32,CAN Communication,Major,Closed,2025-07-10,2025-07-12
+2138,19678,32,Fuel Gauge,Major,Closed,2025-07-12,2025-07-18
+2139,19713,32,Warning Lamps,Critical,Closed,2025-07-08,2025-07-22
+2140,19725,32,CAN Communication,Minor,In Progress,2025-07-09,
+2141,19754,32,Tachometer,Critical,Closed,2025-07-15,2025-07-18
+2142,19774,32,Warning Lamps,Major,Closed,2025-07-14,2025-08-01
+2143,19775,32,Warning Lamps,Major,Closed,2025-07-11,2025-07-22
+2144,19787,32,Warning Lamps,Major,Closed,2025-07-13,2025-07-29
+2145,19905,32,Speedometer,Minor,Closed,2025-07-20,2025-08-01
+2146,19912,32,Speedometer,Minor,Closed,2025-07-18,2025-08-03
+2147,20071,32,Speedometer,Minor,Closed,2025-07-21,2025-08-07
+2148,20079,32,Tachometer,Minor,Open,2025-07-08,

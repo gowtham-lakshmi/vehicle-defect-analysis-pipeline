@@ -1,0 +1,31 @@
+test_case_id,module,title,priority,test_type
+1,Speedometer,Speed display accuracy,Medium,Regression
+2,Speedometer,Speed unit switch,High,Regression
+3,Speedometer,Over-speed warning,High,Regression
+4,Tachometer,RPM needle response,High,Functional
+5,Tachometer,Redline indication,Low,Regression
+6,Tachometer,RPM at idle,Medium,Regression
+7,Fuel Gauge,Fuel level display,High,Regression
+8,Fuel Gauge,Low fuel warning,Medium,Functional
+9,Fuel Gauge,Fuel bar flicker,High,Functional
+10,Warning Lamps,Engine lamp,Medium,Regression
+11,Warning Lamps,ABS lamp,Medium,Functional
+12,Warning Lamps,Side stand lamp,High,Regression
+13,Warning Lamps,Battery lamp,Medium,Functional
+14,Odometer,Odometer increment,Low,Regression
+15,Odometer,Odometer power cycle retain,Low,Functional
+16,Trip Meter,Trip A reset,Medium,Functional
+17,Trip Meter,Trip B reset,High,Regression
+18,Trip Meter,Trip auto reset,Medium,Regression
+19,Bluetooth,Phone pairing,Low,Regression
+20,Bluetooth,Call alert display,Low,Regression
+21,Bluetooth,SMS alert display,High,Functional
+22,Display,Brightness auto adjust,Low,Functional
+23,Display,Day night mode,High,Functional
+24,Display,Startup animation,High,Regression
+25,CAN Communication,CAN message timeout,High,Regression
+26,CAN Communication,CAN signal validity,Low,Regression
+27,CAN Communication,Bus off recovery,High,Regression
+28,UDS Diagnostics,Read DTC,Low,Regression
+29,UDS Diagnostics,Clear DTC,Low,Regression
+30,UDS Diagnostics,Session control,Medium,Regression

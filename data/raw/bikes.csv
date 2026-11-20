@@ -1,0 +1,9 @@
+bike_id,model,variant,cluster_type
+1,Commuter 110,Base,Segment LCD
+2,Commuter 110,Top,Digital LCD
+3,Scooter 125,Standard,Digital LCD
+4,Scooter 125,Smart,TFT
+5,Sport 160,Standard,Digital LCD
+6,Sport 160,Pro,TFT
+7,Adventure 200,Standard,TFT
+8,Electric E1,Standard,TFT
