@@ -29,7 +29,7 @@ This project stores all of that test data and helps answer questions like:
 | Databricks | Running Spark code, and the warehouse that dbt connects to |
 | dbt (dbt Cloud) | Building staging and mart tables, with tests to check the data |
 | Git and GitHub | Saving my code, using branches and pull requests |
-| Power BI | Planned: the final dashboard on top of the mart tables |
+| Power BI | A dashboard on top of the Databricks mart tables (bugs by module, release type and model, and pass rate) |
 
 ## How I built it (step by step)
 
@@ -56,7 +56,11 @@ VS Code + Python      generate data -> clean data
 5. **Spark and Databricks.** I wrote Spark code to process the data and worked in Databricks.
 6. **Transform with dbt.** I connected dbt to Databricks and built staging models, then mart models, and added tests to catch bad data.
 7. **Save the work on GitHub.** I used Git to commit my code and a pull request to merge my branch into main.
-8. **Dashboard in Power BI (planned).** The dashboard will show pass rate and bug counts per release and per module, using the `release_quality_summary` mart table.
+8. **Dashboard in Power BI.** I connected Power BI to Databricks and built a dashboard from the mart tables. It shows total bikes, releases and bugs, bugs by module, bugs by release type and model, and the average pass rate for Alpha, Beta and Production.
+
+## Dashboard
+
+![Power BI dashboard](images/dashboard.png)
 
 ## The data: 5 tables explained
 
@@ -157,6 +161,7 @@ vehicle-defect-analysis-pipeline
 ├── tests/       dbt tests
 ├── scripts/     python scripts (generate, clean, load)
 ├── sql/         create_tables.sql (MySQL table definitions)
+├── images/      dashboard screenshot
 └── data/
     ├── raw/     raw csv files
     └── clean/   cleaned csv files
